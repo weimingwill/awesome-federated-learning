@@ -7,7 +7,70 @@
 # Awesome Federated Learning
 This repository maintains a collection of papers, articles, videos, frameworks, etc of federated learing, for the purpose of learning and research.
 
-## Privacy
+
+
+## Introduction
+
+* Federated Learning Comic [[Google Blog]](https://federated.withgoogle.com/)
+* Federated Learning: Collaborative Machine Learning without Centralized Training Data [[Google Blog]](http://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+* GDPR, Data Shotrage and AI (AAAI-19) [[Paper]](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang)
+
+
+
+## Survey
+
+* Federated Machine Learning: Concept and Applications [[Paper]](https://dl.acm.org/citation.cfm?id=3298981) 
+* Federated Learning: Challenges, Methods, and Future Directions [[Paper]](https://arxiv.org/abs/1908.07873)
+
+
+
+## Frameworks
+
+* PySyft [[Github]](https://github.com/OpenMined/PySyft)
+* Tensorflow Federated [[Web]](https://www.tensorflow.org/federated)
+* Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
+* Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
+
+
+
+## Data Privacy and Confidentiality
+
+### Workshops
+
+* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 1 [[Video]](https://slideslive.com/38921898/workshop-on-federated-learning-for-data-privacy-and-confidentiality-1)
+* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 2 [[Video]](https://slideslive.com/38921899/workshop-on-federated-learning-for-data-privacy-and-confidentiality-2)
+* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 3 [[Video]](https://slideslive.com/38921900/workshop-on-federated-learning-for-data-privacy-and-confidentiality-3)
+
+### Courses
+
+* Applied Cryptography [[Udacity]](https://www.udacity.com/course/applied-cryptography--cs387)
+  * Cryptography basics
+
+
+### Differential Privacy
+
+* Deep learning with differential privacy [[Paper]](http://doi.acm.org/10.1145/2976749.2978318)
+  * Martin Abadi, Andy Chu, Ian Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, and Li Zhang.
+* Multiparty computation from somewhat homomorphic encryption
+  * Ivan Damgård, Valerio Pastro, Nigel Smart, and Sarah Zakarias. (Advances in Cryptology)
+* Practical covertly secure mpc for dishonest majority–or: breaking the spdz limits.
+  * Ivan Damgård, Marcel Keller, Enrique Larraia, Valerio Pastro, Peter Scholl, and Nigel P Smart.(*European Symposium on Research in Computer Security*)
+* Safetynets: Verifiable execution of deep neural networks on an untrusted cloud
+  * Zahra Ghodsi, Tianyu Gu, and Siddharth Garg. . In *Advances in Neural Information Processing Systems*
+
+#### PATE
+
+* Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data [[Paper]](http://dblp.uni-trier.de/db/journals/corr/corr1610. )
+  * Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian J. Goodfellow, and Kunal Talwar.
+  * Private Aggregation of Teacher Ensembles (PATE)
+* Scalable Private Learning with PATE [[Paper]](https://arxiv.org/abs/1802.08908)
+  * Extension of PATE
+- The [original PATE paper](https://arxiv.org/abs/1610.05755) at ICLR 2017 and recording of the ICLR [oral](https://www.youtube.com/watch?v=bDayquwDgjU)
+- The [ICLR 2018 paper](https://arxiv.org/abs/1802.08908) on scaling PATE to large number of classes and imbalanced data.
+- GitHub [code repo for PATE](https://github.com/tensorflow/models/tree/master/research/differential_privacy/multiple_teachers)
+- GitHub [code repo for the refined privacy analysis of PATE](https://github.com/tensorflow/models/tree/master/research/differential_privacy/pate)
+
+
 
 ### Secret Sharing
 * Simple Introduction to Sharmir's Secret Sharing and Lagrange Interpolation [[Youtube]](https://www.youtube.com/watch?v=kkMps3X_tEE)
@@ -23,6 +86,8 @@ This repository maintains a collection of papers, articles, videos, frameworks, 
   * Part 2: Circuit Evaluation [[Blog]](https://bristolcrypto.blogspot.com/2016/10/what-is-spdz-part-2-circuit-evaluation.html)
 
 * The SPDZ Protocol [[Blog]](https://mortendahl.github.io/2017/09/03/the-spdz-protocol-part1/): implementation codes included
+
+#### Advance (Not Recommended For Beginners)
 
 * Multiparty Computation from Somewhat Homomorphic Encryption [[Paper]](https://eprint.iacr.org/2011/535)
   * SPDZ introduction
@@ -50,6 +115,7 @@ This repository maintains a collection of papers, articles, videos, frameworks, 
 
 ### Privacy Preserving Machine Learning
 
+* Privacy Partition: A Privacy-Preserving Framework for Deep Neural Networks in Edge Networks [[Paper]](http://mews.sv.cmu.edu/papers/archedge-18.pdf)
 * Practical Secure Aggregation for Privacy-Preserving Machine Learning [[Paper]](https://eprint.iacr.org/2017/281.pdf) (Google)
   * Secure Aggregation: The problem of computing a multiparty sum where no party reveals its update in the clear—even to the aggregator
   * Goal: securely computing sums of vectors, which has a constant number of rounds, low communication overhead, robustness to failures, and which requires only one server with limited trust
