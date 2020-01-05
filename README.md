@@ -72,12 +72,22 @@ Note:
 
 * FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization [[Paper]](https://arxiv.org/abs/1909.13014)
 
-  
+
 
 ## Model Aggregation
 
 * One-Shot Federated Learning [[Paper]](https://arxiv.org/abs/1902.11175)
  * Federated Optimization: Distributed Machine Learning for On-Device Intelligence [[Paper]](https://arxiv.org/abs/1610.02527)
+* Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating [[Paper]](https://arxiv.org/abs/1910.08234) (NIPS2019 Workshop)
+
+
+
+
+## Statistical Heterogeneity
+* Robust and Communication-Efficient Federated Learning from Non-IID Data [[Paper]](https://arxiv.org/pdf/1903.02891)
+* FedMD: Heterogenous Federated Learning via Model Distillation [[Paper]](https://arxiv.org/abs/1910.03581) (NIPS2019 Workshop)
+* Improving Federated Learning Personalization via Model Agnostic Meta Learning [[Paper]](https://arxiv.org/abs/1909.12488) (NIPS2019 Workshop)
+* Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717) (NIPS2019 Workshop)
 
 
 
@@ -96,6 +106,8 @@ Note:
 * *Deep Learning with Differential Privacy* [[Paper]](http://doi.acm.org/10.1145/2976749.2978318)
   * Martin Abadi, Andy Chu, Ian Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, and Li Zhang.
 * Learning Differentially Private Recurrent Language Models [[Paper]](https://arxiv.org/abs/1710.06963)
+* Federated Learning with Bayesian Differential Privacy [[Paper]](https://arxiv.org/abs/1911.10071) (NIPS2019 Workshop)
+* Private Federated Learning with Domain Adaptation [[Paper]](https://arxiv.org/abs/1912.06733) (NIPS2019 Workshop)
 
 #### PATE
 
@@ -131,6 +143,8 @@ Note:
 
 * The SPDZ Protocol [[Blog]](https://mortendahl.github.io/2017/09/03/the-spdz-protocol-part1/): implementation codes included
 
+
+
 ##### Advance (Not Recommended For Beginners)
 
 * Multiparty Computation from Somewhat Homomorphic Encryption [[Paper]](https://eprint.iacr.org/2011/535)
@@ -153,6 +167,10 @@ Note:
 * Private Image Analysis with MPC [[Blog]](https://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/)
   * Training CNNs on Sensitive Data
   * Use SPDZ as MPC protocol
+
+#### MPC related Paper
+Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https://arxiv.org/abs/1907.07212) (NIPS2019 Workshop)
+
 
 
 ### Privacy Preserving Machine Learning
