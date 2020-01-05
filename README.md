@@ -7,7 +7,7 @@
 # Awesome Federated Learning
 This repository maintains a collection of papers, articles, videos, frameworks, etc of federated learing, for the purpose of learning and research.
 
-Note: 
+Note:
 
 * **Italic** contents are the ones worth reading
 * **Pull requests** are highly welcomed
@@ -26,7 +26,7 @@ Note:
 
 ## Survey
 
-* Federated Machine Learning: Concept and Applications [[Paper]](https://dl.acm.org/citation.cfm?id=3298981) 
+* Federated Machine Learning: Concept and Applications [[Paper]](https://dl.acm.org/citation.cfm?id=3298981)
 * Federated Learning: Challenges, Methods, and Future Directions [[Paper]](https://arxiv.org/abs/1908.07873)
 * Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [[Paper]](https://arxiv.org/abs/1907.09693)
 * Federated Learning in Mobile Edge Networks: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/1909.11875)
@@ -38,7 +38,7 @@ Note:
 ## Frameworks
 
 * PySyft [[Github]](https://github.com/OpenMined/PySyft)
-  * A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017) 
+  * A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017)
 * Tensorflow Federated [[Web]](https://www.tensorflow.org/federated)
 * FATE [[Github]](https://github.com/FederatedAI/FATE)
 * Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
@@ -194,7 +194,7 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
 ## Other Learning
 
 - Federated Reinforcement Learning [[Paper]](https://arxiv.org/abs/1901.08277)
-- Secure Federated Transfer Learning [[Paper]](https://arxiv.org/abs/1812.03337) 
+- Secure Federated Transfer Learning [[Paper]](https://arxiv.org/abs/1812.03337)
 - Federated Multi-Task Learning [[Paper]](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf)
 
 
@@ -211,7 +211,7 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
   * Microsoft Research Asia
 * Multi-Institutional Deep Learning Modeling Without Sharing Patient Data: A Feasibility Study on Brain Tumor Segmentation [[Paper]](https://arxiv.org/pdf/1810.04304.pdf)
   * Intel
-* NVIDIA Clara Federated Learning to Deliver AI to Hospitals While Protecting Patient Data [[Blog]](https://blogs.nvidia.com/blog/2019/12/01/clara-federated-learning/) 
+* NVIDIA Clara Federated Learning to Deliver AI to Hospitals While Protecting Patient Data [[Blog]](https://blogs.nvidia.com/blog/2019/12/01/clara-federated-learning/)
   * Nvidia
 * What is Federated Learning [[Blog]](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/)
   * Nvidia
