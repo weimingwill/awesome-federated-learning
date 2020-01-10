@@ -18,7 +18,7 @@ Note:
 
 * Federated Learning Comic [[Google Blog]](https://federated.withgoogle.com/)
 * Federated Learning: Collaborative Machine Learning without Centralized Training Data [[Google Blog]](http://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
-* GDPR, Data Shotrage and AI (AAAI-19) [[Paper]](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang)
+* GDPR, Data Shotrage and AI (AAAI-19) [[Video]](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang)
 * Federated Learning: Machine Learning on Decentralized Data (Google I/O'19) [[Youtube]](https://www.youtube.com/watch?v=89BGjQYA0uE)
 * Federated Learning White Paper V1.0 [[Paper]](https://www.fedai.org/static/flwp-en.pdf)
 
@@ -32,6 +32,7 @@ Note:
 * Federated Learning in Mobile Edge Networks: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/1909.11875)
 * Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges [[Paper]](https://arxiv.org/abs/1908.06847)
 * Convergence of Edge Computing and Deep Learning: A Comprehensive Survey [[Paper]](https://arxiv.org/pdf/1907.08349.pdf)
+* Advances and Open Problems in Federated Learning [[Paper]](https://arxiv.org/abs/1912.04977)
 
 
 
@@ -79,6 +80,9 @@ Note:
 * One-Shot Federated Learning [[Paper]](https://arxiv.org/abs/1902.11175)
  * Federated Optimization: Distributed Machine Learning for On-Device Intelligence [[Paper]](https://arxiv.org/abs/1610.02527)
 * Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating [[Paper]](https://arxiv.org/abs/1910.08234) (NIPS2019 Workshop)
+* Bayesian Nonparametric Federated Learning of Neural Networks [[Paper]](https://arxiv.org/abs/1905.12022) (ICML 2019)
+* Agnostic Federated Learning [[Paper]](https://arxiv.org/abs/1902.00146) (ICML 2019)
+* Federated Learning with Matched Averaging [[Paper]](https://openreview.net/forum?id=BkluqlSFDS) (ICLR 2020)
 
 
 
@@ -88,6 +92,7 @@ Note:
 * FedMD: Heterogenous Federated Learning via Model Distillation [[Paper]](https://arxiv.org/abs/1910.03581) (NIPS2019 Workshop)
 * Improving Federated Learning Personalization via Model Agnostic Meta Learning [[Paper]](https://arxiv.org/abs/1909.12488) (NIPS2019 Workshop)
 * Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717) (NIPS2019 Workshop)
+* Federated Adversarial Domain Adaptation [[Paper]](https://arxiv.org/abs/1911.02054) (ICLR2 020)
 
 
 
