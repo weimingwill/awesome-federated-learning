@@ -36,22 +36,11 @@ Note:
 
 
 
-## Frameworks
+## Benchmarks
 
-* PySyft [[Github]](https://github.com/OpenMined/PySyft)
-  * A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017)
-* Tensorflow Federated [[Web]](https://www.tensorflow.org/federated)
-* FATE [[Github]](https://github.com/FederatedAI/FATE)
-* Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
-* Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
-
-
-
-## Workshops
-
-* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 1 [[Video]](https://slideslive.com/38921898/workshop-on-federated-learning-for-data-privacy-and-confidentiality-1)
-* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 2 [[Video]](https://slideslive.com/38921899/workshop-on-federated-learning-for-data-privacy-and-confidentiality-2)
-* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 3 [[Video]](https://slideslive.com/38921900/workshop-on-federated-learning-for-data-privacy-and-confidentiality-3)
+* LEAF: A Benchmark for Federated Settings [[Paper]](https://arxiv.org/abs/1812.01097) [[Github]](https://github.com/TalwalkarLab/leaf) [Recommend]
+* A Performance Evaluation of Federated Learning Algorithms [[Paper]](https://www.researchgate.net/profile/Gregor_Ulm/publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms/links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf)
+* Edge AIBench: Towards Comprehensive End-to-end Edge Computing Benchmarking [[Paper]](https://arxiv.org/abs/1908.01924)
 
 
 
@@ -59,30 +48,68 @@ Note:
 
 * *Towards Federated Learning at Scale: System Design* [[Paper]](https://arxiv.org/abs/1902.01046) **[Must Read]**
 * Demonstration of Federated Learning in a Resource-Constrained Networked Environment [[Paper]](https://ieeexplore.ieee.org/document/8784064)
+* Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [[Paper]](https://arxiv.org/abs/1907.09693)
 
 
 
 ## Communication Efficiency
 
-* *Communication-Efficient Learning of Deep Networks from Decentralized Data* [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) **[Must Read]**
-
-* *Federated Learning: Strategies for Improving Communication Efficiency*
-  [[Paper]](https://arxiv.org/abs/1610.05492)
-
+* *Communication-Efficient Learning of Deep Networks from Decentralized Data* [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) [Google] **[Must Read]**
+* Federated Optimization: Distributed Machine Learning for On-Device Intelligence [[Paper]](https://arxiv.org/abs/1610.02527) [Google]
 * cpSGD: Communication-efficient and differentially-private distributed SGD [[Paper]](https://arxiv.org/abs/1805.10559)
-
 * FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization [[Paper]](https://arxiv.org/abs/1909.13014)
+* Two-streamfederatedlearning:Reduce the communication costs,” in *2018 IEEE Visual Communications and Image Processing (VCIP)*. IEEE, 2018, pp. 1–4.
+* “Edge-assisted hierarchical federated learning with non-iid data,” 
+
+### Model Compression
+
+* Federated Learning: Strategies for Improving Communication Efficiency* [[Paper]](https://arxiv.org/abs/1610.05492) [NIPS2016 Workshop] [Google]
+* Expanding the reach of federated learning by reducing client resource require- ments.  *arXiv preprint arXiv:1812.07210*, 2018.
+
+### Important-Based Updating
+
+*  Z. Tao and Q. Li, “esgd: Communication efficient distributed deep learning on the edge,” in {*USENIX*} *Workshop on Hot Topics in Edge Computing (HotEdge 18)*, 2018.
+* Cmfl: Mitigating communication overhead for federated learning.
+
+
+
+## Resource Allocation
+
+### Participants Selection
+
+* Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge [[Paper]](https://arxiv.org/abs/1804.08333) (FedCS)
+* Hybrid-FL for Wireless Networks: Cooperative Learning Mechanism Using Non-IID Data [[Paper]](https://arxiv.org/abs/1905.07210)
+  * Ask to upload some data from client to server
+* Efficient Training Management for Mobile Crowd-Machine Learning: A Deep Reinforcement Learning Approach [[Paper]](https://arxiv.org/abs/1812.03633)
+  * Reward function: accumulated data, energy consumption, training accuracy
+
+* Fair Resource Allocation in Federated Learning [[Paper]](https://arxiv.org/abs/1905.10497)
+* Low-latency Broadband Analog Aggregation For Federated Edge Learning [[Paper]](https://arxiv.org/abs/1812.11494)
+* Federated Learning over Wireless Fading Channels [[Paper]](https://arxiv.org/pdf/1907.09769.pdf)
+* Federated Learning via Over-the-Air Computation [[Paper]](https://arxiv.org/abs/1812.11750)
+
+### Adaptive Aggregation
+
+* Asynchronous Federated Learning for Geospatial Applications [[Paper]](https://link.springer.com.remotexs.ntu.edu.sg/chapter/10.1007/978-3-030-14880-5_2) [ECML PKDD Workshop 2018] 
+* Asynchronous Federated Optimization [[Paper]](https://arxiv.org/abs/1903.03934)
+* Adaptive Federated Learning in Resource Constrained Edge Computing Systems [[Paper]](https://arxiv.org/abs/1804.05271) [IEEE Journal on Selected Areas in Communications, 2019]
+
+### Incentive Mechanism
+
+* Incentive Mechanism for Reliable Federated Learning: A Joint Optimization Approach to Combining Reputation and Contract Theory [[Paper]](https://ieeexplore.ieee.org/document/8832210)
+* Motivating Workers in Federated Learning: A Stackelberg Game Perspective [[Paper]](https://arxiv.org/abs/1908.03092)
+* Incentive Design for Efficient Federated Learning in Mobile Networks: A Contract Theory Approach [2019] [[Paper]](https://arxiv.org/abs/1905.07479)
 
 
 
 ## Model Aggregation
 
 * One-Shot Federated Learning [[Paper]](https://arxiv.org/abs/1902.11175)
- * Federated Optimization: Distributed Machine Learning for On-Device Intelligence [[Paper]](https://arxiv.org/abs/1610.02527)
 * Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating [[Paper]](https://arxiv.org/abs/1910.08234) (NIPS2019 Workshop)
 * Bayesian Nonparametric Federated Learning of Neural Networks [[Paper]](https://arxiv.org/abs/1905.12022) (ICML 2019)
 * Agnostic Federated Learning [[Paper]](https://arxiv.org/abs/1902.00146) (ICML 2019)
 * Federated Learning with Matched Averaging [[Paper]](https://openreview.net/forum?id=BkluqlSFDS) (ICLR 2020)
+* Astraea: Self-balancing federated learning for improving classification accuracy of mobile deep learning applications [[Paper]](https://arxiv.org/abs/1907.01132)
 
 
 
@@ -93,6 +120,8 @@ Note:
 * Improving Federated Learning Personalization via Model Agnostic Meta Learning [[Paper]](https://arxiv.org/abs/1909.12488) (NIPS2019 Workshop)
 * Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717) (NIPS2019 Workshop)
 * Federated Adversarial Domain Adaptation [[Paper]](https://arxiv.org/abs/1911.02054) (ICLR2 020)
+* Federated Learning with Non-IID Data [[Paper]](https://arxiv.org/abs/1806.00582) 
+* LoAdaBoost: Loss-Based AdaBoost Federated Machine Learning on Medical Data [[Paper]](https://arxiv.org/pdf/1811.12629)
 
 
 
@@ -202,6 +231,22 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
 - Secure Federated Transfer Learning [[Paper]](https://arxiv.org/abs/1812.03337)
 - Federated Multi-Task Learning [[Paper]](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf)
 
+
+## Frameworks
+
+* PySyft [[Github]](https://github.com/OpenMined/PySyft)
+  * A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017)
+* Tensorflow Federated [[Web]](https://www.tensorflow.org/federated)
+* FATE [[Github]](https://github.com/FederatedAI/FATE)
+* Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
+* Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
+
+
+## Workshops
+
+* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 1 [[Video]](https://slideslive.com/38921898/workshop-on-federated-learning-for-data-privacy-and-confidentiality-1)
+* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 2 [[Video]](https://slideslive.com/38921899/workshop-on-federated-learning-for-data-privacy-and-confidentiality-2)
+* NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 3 [[Video]](https://slideslive.com/38921900/workshop-on-federated-learning-for-data-privacy-and-confidentiality-3)
 
 
 ## Applications
