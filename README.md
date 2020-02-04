@@ -44,6 +44,73 @@ Note:
 
 
 
+## Model Aggregation
+
+* One-Shot Federated Learning [[Paper]](https://arxiv.org/abs/1902.11175)
+* Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating [[Paper]](https://arxiv.org/abs/1910.08234) (NIPS2019 Workshop)
+* Bayesian Nonparametric Federated Learning of Neural Networks [[Paper]](https://arxiv.org/abs/1905.12022) (ICML 2019)
+* Agnostic Federated Learning [[Paper]](https://arxiv.org/abs/1902.00146) (ICML 2019)
+* Federated Learning with Matched Averaging [[Paper]](https://openreview.net/forum?id=BkluqlSFDS) (ICLR 2020)
+* Astraea: Self-balancing federated learning for improving classification accuracy of mobile deep learning applications [[Paper]](https://arxiv.org/abs/1907.01132)
+
+
+
+## Statistical Heterogeneity
+
+* Federated Learning with Non-IID Data [[Paper]](https://arxiv.org/abs/1806.00582) 
+* The Non-IID Data Quagmire of Decentralized Machine Learning [[Paper]](https://arxiv.org/abs/1910.00189)
+* Robust and Communication-Efficient Federated Learning from Non-IID Data [[Paper]](https://arxiv.org/pdf/1903.02891)
+* FedMD: Heterogenous Federated Learning via Model Distillation [[Paper]](https://arxiv.org/abs/1910.03581) (NIPS2019 Workshop)
+* First Analysis of Local GD on Heterogeneous Data [[Paper]](https://arxiv.org/abs/1909.04715)
+* SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378)
+* Federated Optimization for Heterogeneous Networks [[Paper]](https://arxiv.org/pdf/1812.06127)
+* On the Convergence of FedAvg on Non-IID Data [[Paper]](https://arxiv.org/abs/1907.02189) [[OpenReview]](https://openreview.net/forum?id=HJxNAnVtDS)
+* Agnostic Federated Learning [[Paper]](https://arxiv.org/abs/1902.00146) (ICML 2019)
+* Local SGD Converges Fast and Communicates Little [[Paper]](https://arxiv.org/abs/1805.09767)
+* Improving Federated Learning Personalization via Model Agnostic Meta Learning [[Paper]](https://arxiv.org/abs/1909.12488) (NIPS2019 Workshop)
+* Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717) (NIPS2019 Workshop)
+* Federated Adversarial Domain Adaptation [[Paper]](https://arxiv.org/abs/1911.02054) (ICLR 2020)
+* LoAdaBoost: Loss-Based AdaBoost Federated Machine Learning on Medical Data [[Paper]](https://arxiv.org/pdf/1811.12629)
+* On Federated Learning of Deep Networks from Non-IID Data: Parameter Divergence and the Effects of Hyperparametric Methods [[Paper]](https://openreview.net/forum?id=SJeOAJStwB) [Rejected in ICML 2020]
+* Overcoming Forgetting in Federated Learning on Non-IID Data [[Paper]](https://arxiv.org/abs/1910.07796) [NIPS2019 Workshop]
+* FedMAX: Activation Entropy Maximization Targeting Effective Non-IID Federated Learning [[Video]](#workshop) [NIPS2019 Workshop]
+* Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification [[Paper]](https://arxiv.org/abs/1909.06335) [NIPS2019 Workshop]
+* Fair Resource Allocation in Federated Learning [[Paper]](https://arxiv.org/abs/1905.10497)
+*  Communication-efficient on-device machine learning: Federated distillation and augmentation under non-iid private data [[Paper]](https://arxiv.org/abs/1811.11479)
+
+
+### Meta Learning
+
+* Federated Meta-Learning with Fast Convergence and Efficient Communication [[Paper]](https://arxiv.org/abs/1802.07876)
+* Federated Meta-Learning for Recommendation [[Paper]](https://www.semanticscholar.org/paper/Federated-Meta-Learning-for-Recommendation-Chen-Dong/8e21d353ba283bee8fd18285558e5e8df39d46e8#paper-header)
+* Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717)
+
+### Multi-task Learning
+
+* MOCHA: Federated Multi-Task Learning [[Paper]](https://arxiv.org/abs/1705.10467) [[NIPS 2017]](https://papers.nips.cc/paper/7029-federated-multi-task-learning) [[Slides]](http://learningsys.org/nips17/assets/slides/mocha-NIPS.pdf)
+* Variational Federated Multi-Task Learning [[Paper]](https://arxiv.org/abs/1906.06268)
+* Federated Kernelized Multi-Task Learning [[Paper]](https://mlsys.org/Conferences/2019/doc/2018/30.pdf)
+
+
+### Convergence
+
+* A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication [[Paper]](https://papers.nips.cc/paper/7519-a-linear-speedup-analysis-of-distributed-deep-learning-with-sparse-and-quantized-communication) [NIPS 2018]
+* SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378)
+* Federated Optimization for Heterogeneous Networks [[Paper]](https://arxiv.org/pdf/1812.06127)
+* On the Convergence of FedAvg on Non-IID Data [[Paper]](https://arxiv.org/abs/1907.02189) [[OpenReview]](https://openreview.net/forum?id=HJxNAnVtDS)
+* Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent [[Paper]](https://arxiv.org/abs/1705.09056) [NIPS 2017]
+* Communication Efficient Decentralized Training with Multiple Local Updates [[Paper]](https://arxiv.org/abs/1910.09126)
+* First Analysis of Local GD on Heterogeneous Data [[Paper]](https://arxiv.org/abs/1909.04715)
+* MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling [[Paper]](https://arxiv.org/abs/1905.09435)
+* Local SGD Converges Fast and Communicates Little [[Paper]](https://arxiv.org/abs/1805.09767)
+* SlowMo: Improving Communication-Efficient Distributed SGD with Slow Momentum [[Paper]](https://arxiv.org/abs/1910.00643)
+* Adaptive Federated Learning in Resource Constrained Edge Computing Systems [[Paper]](https://arxiv.org/abs/1804.05271) [IEEE Journal on Selected Areas in Communications, 2019]
+* Parallel Restarted SGD with Faster Convergence and Less Communication: Demystifying Why Model Averaging Works for Deep Learning [[Paper]](https://arxiv.org/abs/1807.06629) [AAAI 2018]
+* On the Linear Speedup Analysis of Communication Efficient Momentum SGD for Distributed Non-Convex Optimization [[Paper]](https://arxiv.org/abs/1905.03817) [ICML 2019]
+*  Communication-efficient on-device machine learning: Federated distillation and augmentation under non-iid private data [[Paper]](https://arxiv.org/abs/1811.11479)
+
+
+
 ## System
 
 * *Towards Federated Learning at Scale: System Design* [[Paper]](https://arxiv.org/abs/1902.01046) **[Must Read]**
@@ -100,28 +167,6 @@ Note:
 * Motivating Workers in Federated Learning: A Stackelberg Game Perspective [[Paper]](https://arxiv.org/abs/1908.03092)
 * Incentive Design for Efficient Federated Learning in Mobile Networks: A Contract Theory Approach [2019] [[Paper]](https://arxiv.org/abs/1905.07479)
 
-
-
-## Model Aggregation
-
-* One-Shot Federated Learning [[Paper]](https://arxiv.org/abs/1902.11175)
-* Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating [[Paper]](https://arxiv.org/abs/1910.08234) (NIPS2019 Workshop)
-* Bayesian Nonparametric Federated Learning of Neural Networks [[Paper]](https://arxiv.org/abs/1905.12022) (ICML 2019)
-* Agnostic Federated Learning [[Paper]](https://arxiv.org/abs/1902.00146) (ICML 2019)
-* Federated Learning with Matched Averaging [[Paper]](https://openreview.net/forum?id=BkluqlSFDS) (ICLR 2020)
-* Astraea: Self-balancing federated learning for improving classification accuracy of mobile deep learning applications [[Paper]](https://arxiv.org/abs/1907.01132)
-
-
-
-
-## Statistical Heterogeneity
-* Robust and Communication-Efficient Federated Learning from Non-IID Data [[Paper]](https://arxiv.org/pdf/1903.02891)
-* FedMD: Heterogenous Federated Learning via Model Distillation [[Paper]](https://arxiv.org/abs/1910.03581) (NIPS2019 Workshop)
-* Improving Federated Learning Personalization via Model Agnostic Meta Learning [[Paper]](https://arxiv.org/abs/1909.12488) (NIPS2019 Workshop)
-* Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717) (NIPS2019 Workshop)
-* Federated Adversarial Domain Adaptation [[Paper]](https://arxiv.org/abs/1911.02054) (ICLR2 020)
-* Federated Learning with Non-IID Data [[Paper]](https://arxiv.org/abs/1806.00582) 
-* LoAdaBoost: Loss-Based AdaBoost Federated Machine Learning on Medical Data [[Paper]](https://arxiv.org/pdf/1811.12629)
 
 
 
@@ -292,4 +337,5 @@ Google
 * OpenMined [[Website]](https://www.openmined.org/)
 * Arkhn [[Website]](https://arkhn.org/en/)
 * Snips [[Website]](https://snips.ai/)
+
 
