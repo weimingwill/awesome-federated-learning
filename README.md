@@ -14,6 +14,37 @@ Note:
 
 
 
+## Table Of Contents
+
+* [Introduction](#introduction)
+* [Survey](#survey)
+* [Benchmarks](#benchmarks)
+* [Model Aggregation](#model-aggregation)
+* [Statistical Heterogeneity](#statistical-heterogeneity)
+   * [Meta Learning](#meta-learning)
+   * [Multi-task Learning](#multi-task-learning)
+   * [Convergence](#convergence)
+* [System](#system)
+* [Communication Efficiency](#communication-efficiency)
+   * [Model Compression](#model-compression)
+   * [Important-Based Updating](#important-based-updating)
+* [Resource Allocation](#resource-allocation)
+   * [Participants Selection](#participants-selection)
+   * [Adaptive Aggregation](#adaptive-aggregation)
+   * [Incentive Mechanism](#incentive-mechanism)
+* [Data Privacy and Confidentiality](#data-privacy-and-confidentiality)
+   * [Courses](#courses)
+   * [Differential Privacy](#differential-privacy)
+   * [Secure Multi-party Computation](#secure-multi-party-computation)
+   * [Privacy Preserving Machine Learning](#privacy-preserving-machine-learning)
+* [Other Learning](#other-learning)
+* [Frameworks](#frameworks)
+* [Workshops](#workshops)
+* [Applications](#applications)
+* [Company](#company)
+
+
+
 ## Introduction
 
 * Federated Learning Comic [[Google Blog]](https://federated.withgoogle.com/)
