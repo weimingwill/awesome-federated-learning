@@ -14,35 +14,43 @@ Note:
 
 
 
-## Table Of Contents
-
-* [Introduction](#introduction)
-* [Survey](#survey)
-* [Benchmarks](#benchmarks)
-* [Model Aggregation](#model-aggregation)
-* [Statistical Heterogeneity](#statistical-heterogeneity)
-   * [Meta Learning](#meta-learning)
-   * [Multi-task Learning](#multi-task-learning)
-   * [Convergence](#convergence)
-* [System](#system)
-* [Communication Efficiency](#communication-efficiency)
-   * [Model Compression](#model-compression)
-   * [Important-Based Updating](#important-based-updating)
-* [Resource Allocation](#resource-allocation)
-   * [Participants Selection](#participants-selection)
-   * [Adaptive Aggregation](#adaptive-aggregation)
-   * [Incentive Mechanism](#incentive-mechanism)
-* [Data Privacy and Confidentiality](#data-privacy-and-confidentiality)
-   * [Courses](#courses)
-   * [Differential Privacy](#differential-privacy)
-   * [Secure Multi-party Computation](#secure-multi-party-computation)
-   * [Privacy Preserving Machine Learning](#privacy-preserving-machine-learning)
-* [Other Learning](#other-learning)
-* [Frameworks](#frameworks)
-* [Workshops](#workshops)
-* [Applications](#applications)
-* [Company](#company)
-
+- [Awesome Federated Learning](#awesome-federated-learning)
+  - [Introduction](#introduction)
+  - [Survey](#survey)
+  - [Benchmarks](#benchmarks)
+  - [Model Aggregation](#model-aggregation)
+  - [Statistical Heterogeneity](#statistical-heterogeneity)
+    - [Meta Learning](#meta-learning)
+    - [Multi-task Learning](#multi-task-learning)
+    - [Convergence](#convergence)
+  - [System](#system)
+  - [Communication Efficiency](#communication-efficiency)
+    - [Compression](#compression)
+    - [Important-Based Updating](#important-based-updating)
+  - [Resource Allocation](#resource-allocation)
+    - [Participants Selection](#participants-selection)
+    - [Adaptive Aggregation](#adaptive-aggregation)
+    - [Incentive Mechanism](#incentive-mechanism)
+  - [Data Privacy and Confidentiality](#data-privacy-and-confidentiality)
+    - [Courses](#courses)
+    - [Differential Privacy](#differential-privacy)
+      - [PATE](#pate)
+    - [Secure Multi-party Computation](#secure-multi-party-computation)
+      - [Secret Sharing](#secret-sharing)
+      - [SPDZ](#spdz)
+        - [Advance (Not Recommended For Beginners)](#advance-not-recommended-for-beginners)
+      - [Build Safe AI Series](#build-safe-ai-series)
+      - [MPC related Paper](#mpc-related-paper)
+    - [Privacy Preserving Machine Learning](#privacy-preserving-machine-learning)
+  - [Other Learning](#other-learning)
+  - [Frameworks](#frameworks)
+  - [Workshops](#workshops)
+  - [Applications](#applications)
+    - [Healthcare](#healthcare)
+    - [Language Model](#language-model)
+    - [Computer Vision](#computer-vision)
+    - [Recommendation](#recommendation)
+  - [Company](#company)
 
 
 ## Introduction
@@ -158,11 +166,29 @@ Note:
 * FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization [[Paper]](https://arxiv.org/abs/1909.13014)
 * Two-streamfederatedlearning:Reduce the communication costs,” in *2018 IEEE Visual Communications and Image Processing (VCIP)*. IEEE, 2018, pp. 1–4.
 * “Edge-assisted hierarchical federated learning with non-iid data,” 
+* Deep gradient compression: Reducing the communication bandwidth for distributed training [[Paper]](), Yujun Lin, Song Han, Huizi Mao, Yu Wang, and William J Dally
+* Robust and communication efficient federated learning from non-IID data [[Paper]](), Felix Sattler, Simon Wiedemann, Klaus-Robert Muller, and Wojciech Samek. 2019.
+* PowerSGD: Practical low-rank gradient compression for distributed optimization [[Paper]]() [NeurIPS 2019], Thijs Vogels, Sai Praneeth Karimireddy, and Martin Jaggi. 
+* DeepSqueeze: Parallel stochastic gradient descent with double-pass error-compensated compression [[Paper]]() Hanlin Tang, Xiangru Lian, Shuang Qiu, Lei Yuan, Ce Zhang, Tong Zhang, and Ji Liu, 2019.
+* The error-feedback framework: Better rates for SGD with delayed gradients and compressed communication [[Paper]]() Sebastian U Stich and Sai Praneeth Karimireddy, 2019.
+* vqSGD: Vector quantized stochastic gradient descent [[Paper]]() Venkata Gandikota, Raj Kumar Maity, and Arya Mazumdar, 2019.
+* Robust and communication-efficient federated learning from non-iid data [[Paper]]() F. Sattler, S. Wiedemann, K.-R. Müller, and W. Samek, 2019.
 
-### Model Compression
 
-* Federated Learning: Strategies for Improving Communication Efficiency* [[Paper]](https://arxiv.org/abs/1610.05492) [NIPS2016 Workshop] [Google]
-* Expanding the reach of federated learning by reducing client resource require- ments.  *arXiv preprint arXiv:1812.07210*, 2018.
+### Compression
+
+* Expanding the reach of federated learning by reducing client resource requirements [[Paper]]() Sebastian Caldas, Jakub Konecnˇ y, H Brendan McMahan, and Ameet Talwalkar, 2018.
+* Communication compression for decentralized training [[Paper]]() [NIPS 2018], H. Tang, S. Gan, C. Zhang, T. Zhang, and J. Liu.
+* Federated Learning: Strategies for Improving Communication Efficiency [[Paper]](https://arxiv.org/abs/1610.05492) [NIPS2016 Workshop] [Google]
+* Distributed mean estimation with limited communication [[Paper]]() [ICML 2017], Ananda Theertha Suresh, Felix X. Yu, Sanjiv Kumar, and H Brendan McMahan. 
+* Randomized distributed mean estimation: Accuracy vs communication. [[Paper]]() Frontiers in Applied Mathematics and Statistics, Jakub Konecny and Peter Richtarik, 2018
+* Natural compression for distributed deep learning [[Paper]]() Samuel Horvath, Chen-Yu Ho, Ludovit Horvath, Atal Narayan Sahu, Marco Canini, and Peter Richtarik, 2019.
+* QSGD: Communication-efficient SGD via gradient quantization and encoding [[Paper]]() [NIPS 2017], Dan Alistarh, Demjan Grubic, Jerry Li, Ryota Tomioka, and Milan Vojnovic.
+* Error feedback fixes SignSGD and other gradient compression schemes [[Paper]]() [ICML 2019], Sai Praneeth Karimireddy, Quentin Rebjock, Sebastian Stich, and Martin Jaggi.
+* Atomo: Communication-efficient learning via atomic sparsification [[Paper]]()  [NIPS 2018], H. Wang, S. Sievert, S. Liu, Z. Charles, D. Papailiopoulos, and S. Wright. 
+* ZipML: Training linear models with end-to-end low precision, and a little bit of deep learning [[Paper]]() [ICML 2017], H. Zhang, J. Li, K. Kara, D. Alistarh, J. Liu, and C. Zhang.
+
+
 
 ### Important-Based Updating
 
