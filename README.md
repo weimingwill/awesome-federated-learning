@@ -155,7 +155,7 @@ Note:
 * *Towards Federated Learning at Scale: System Design* [[Paper]](https://arxiv.org/abs/1902.01046) **[Must Read]**
 * Demonstration of Federated Learning in a Resource-Constrained Networked Environment [[Paper]](https://ieeexplore.ieee.org/document/8784064)
 * Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [[Paper]](https://arxiv.org/abs/1907.09693)
-
+* Applied Federated Learning: Improving Google Keyboard Query Suggestions [[Paper]](https://arxiv.org/abs/1812.02903)
 
 
 ## Communication Efficiency
@@ -330,7 +330,6 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
 
 - Federated Reinforcement Learning [[Paper]](https://arxiv.org/abs/1901.08277)
 - Secure Federated Transfer Learning [[Paper]](https://arxiv.org/abs/1812.03337)
-- Federated Multi-Task Learning [[Paper]](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf)
 
 
 ## Frameworks
@@ -352,6 +351,8 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
 
 ## Applications
 
+* Federated Learning Approach for Mobile Packet Classification https://arxiv.org/abs/1907.13113
+
 ### Healthcare
 
 * Patient Clustering Improves Efficiency of Federated Machine Learning to predict mortality and hospital stay time using distributed Electronic Medical Records [[Paper]](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf) [[News]](https://venturebeat.com/2019/03/25/federated-learning-technique-predicts-hospital-stay-and-patient-mortality/)
@@ -366,14 +367,16 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
   * Nvidia
 * What is Federated Learning [[Blog]](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/)
   * Nvidia
+* Split learning for health: Distributed deep learning without sharing raw patient data [[Paper]](https://arxiv.org/pdf/1812.00564)
 
 ### Language Model
 
 Google
 
 * Federated Learning for Mobile Keyboard Prediction [[Paper]](https://arxiv.org/abs/1811.03604)
- * Applied federated learning: Improving google keyboard query suggestions [[Paper]](https://arxiv.org/abs/1812.02903)
+* Applied Federated Learning: Improving Google Keyboard Query Suggestions [[Paper]](https://arxiv.org/abs/1812.02903)
  * Federated Learning Of Out-Of-Vocabulary Words [[Paper]](https://arxiv.org/abs/1903.10635)
+* Federated Learning for Emoji Prediction in a Mobile Keyboard [[Paper]](https://arxiv.org/abs/1906.04329)
 
 ### Computer Vision
 
