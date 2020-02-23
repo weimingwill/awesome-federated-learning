@@ -390,6 +390,10 @@ Google
  * Federated Meta-Learning with Fast Convergence and Efficient Communication [[Paper]](https://arxiv.org/abs/1802.07876)
     * Huawei
 
+### Industrial
+
+* Turbofan POC: Predictive Maintenance of Turbofan Engines using Federated Learning [[Github]](https://github.com/matthiaslau/Turbofan-Federated-Learning-POC)
+
 ## Company
 
 * Privacy.ai [[Website]](https://privacy.ai/)
