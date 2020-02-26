@@ -27,6 +27,7 @@ Note:
   - [Communication Efficiency](#communication-efficiency)
     - [Compression](#compression)
     - [Important-Based Updating](#important-based-updating)
+    - [Decentralization](#decentralization)
   - [Resource Allocation](#resource-allocation)
     - [Participants Selection](#participants-selection)
     - [Adaptive Aggregation](#adaptive-aggregation)
@@ -50,6 +51,7 @@ Note:
     - [Language Model](#language-model)
     - [Computer Vision](#computer-vision)
     - [Recommendation](#recommendation)
+    - [Industrial](#industrial)
   - [Company](#company)
 
 
@@ -161,39 +163,40 @@ Note:
 ## Communication Efficiency
 
 * *Communication-Efficient Learning of Deep Networks from Decentralized Data* [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) [Google] **[Must Read]**
-* Federated Optimization: Distributed Machine Learning for On-Device Intelligence [[Paper]](https://arxiv.org/abs/1610.02527) [Google]
-* cpSGD: Communication-efficient and differentially-private distributed SGD [[Paper]](https://arxiv.org/abs/1805.10559)
-* FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization [[Paper]](https://arxiv.org/abs/1909.13014)
-* Two-Stream Federated Learning: Reduce the Communication Costs [[Paper]](https://ieeexplore.ieee.org/document/8698609) [2018 IEEE (VCIP] 
+* Two-Stream Federated Learning: Reduce the Communication Costs [[Paper]](https://ieeexplore.ieee.org/document/8698609) [2018 IEEE VCIP] 
 * Client-Edge-Cloud Hierarchical Federated Learning [[Paper]](https://arxiv.org/abs/1905.06641)
-* Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training [[Paper]](https://arxiv.org/abs/1712.01887), Yujun Lin, Song Han, Huizi Mao, Yu Wang, and William J Dally
-* Robust and Communication-Efficient Federated Learning from Non-IID Data [[Paper]](https://arxiv.org/pdf/1903.02891)
-* PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization [[Paper]](https://arxiv.org/abs/1905.13727) [NeurIPS 2019], Thijs Vogels, Sai Praneeth Karimireddy, and Martin Jaggi. 
-* 𝙳𝚎𝚎𝚙𝚂𝚚𝚞𝚎𝚎𝚣𝚎: Decentralization Meets Error-Compensated Compression [[Paper]](https://arxiv.org/abs/1907.07346) Hanlin Tang, Xiangru Lian, Shuang Qiu, Lei Yuan, Ce Zhang, Tong Zhang, and Ji Liu, 2019.
+* **PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization** [[Paper]](https://arxiv.org/abs/1905.13727) [NIPS 2019], Thijs Vogels, Sai Praneeth Karimireddy, and Martin Jaggi. 
+* Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training [[Paper]](https://arxiv.org/abs/1712.01887), Yujun Lin, Song Han, Huizi Mao, Yu Wang, and William J Dally, 2018
 * The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication [[Paper]](https://arxiv.org/abs/1909.05350) Sebastian U Stich and Sai Praneeth Karimireddy, 2019.
-* vqSGD: Vector Quantized Stochastic Gradient Descent [[Paper]](https://arxiv.org/abs/1911.07971) Venkata Gandikota, Raj Kumar Maity, and Arya Mazumdar, 2019.
 
 
 ### Compression
 
-* Expanding the Reach of Federated Learning by Reducing Client Resource Requirements [[Paper]](https://arxiv.org/abs/1812.07210) Sebastian Caldas, Jakub Konecnˇ y, H Brendan McMahan, and Ameet Talwalkar, 2018.
-* Communication Compression for Decentralized Training [[Paper]](https://arxiv.org/abs/1803.06443) [NIPS 2018], H. Tang, S. Gan, C. Zhang, T. Zhang, and J. Liu.
+* **Robust and Communication-Efficient Federated Learning from Non-IID Data** [[Paper]](https://arxiv.org/pdf/1903.02891), 2019
+* **Expanding the Reach of Federated Learning by Reducing Client Resource Requirements** [[Paper]](https://arxiv.org/abs/1812.07210) Sebastian Caldas, Jakub Konecny, H Brendan McMahan, and Ameet Talwalkar, 2018
 * Federated Learning: Strategies for Improving Communication Efficiency [[Paper]](https://arxiv.org/abs/1610.05492) [NIPS2016 Workshop] [Google]
-* Distributed Mean Estimation with Limited Communication [[Paper]](https://arxiv.org/abs/1611.00429) [ICML 2017], Ananda Theertha Suresh, Felix X. Yu, Sanjiv Kumar, and H Brendan McMahan. 
-* Randomized Distributed Mean Estimation: Accuracy vs Communication [[Paper]](https://arxiv.org/abs/1611.07555) Frontiers in Applied Mathematics and Statistics, Jakub Konecny and Peter Richtarik, 2018
 * Natural Compression for Distributed Deep Learning [[Paper]](https://arxiv.org/abs/1905.10988) Samuel Horvath, Chen-Yu Ho, Ludovit Horvath, Atal Narayan Sahu, Marco Canini, and Peter Richtarik, 2019.
+* **FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization** [[Paper]](https://arxiv.org/abs/1909.13014), 2019
+* ATOMO: Communication-efficient Learning via Atomic Sparsification [[Paper]](https://arxiv.org/abs/1806.04090)  [NIPS 2018], H. Wang, S. Sievert, S. Liu, Z. Charles, D. Papailiopoulos, and S. Wright.
+* vqSGD: Vector Quantized Stochastic Gradient Descent [[Paper]](https://arxiv.org/abs/1911.07971) Venkata Gandikota, Raj Kumar Maity, and Arya Mazumdar, 2019.
 * QSGD: Communication-efficient SGD via gradient quantization and encoding [[Paper]](https://arxiv.org/abs/1610.02132) [NIPS 2017], Dan Alistarh, Demjan Grubic, Jerry Li, Ryota Tomioka, and Milan Vojnovic.
+* cpSGD: Communication-efficient and differentially-private distributed SGD [[Paper]](https://arxiv.org/abs/1805.10559)
+* Federated Optimization: Distributed Machine Learning for On-Device Intelligence [[Paper]](https://arxiv.org/abs/1610.02527) [Google]
+* Distributed Mean Estimation with Limited Communication [[Paper]](https://arxiv.org/abs/1611.00429) [ICML 2017], Ananda Theertha Suresh, Felix X. Yu, Sanjiv Kumar, and H Brendan McMahan. 
+* Randomized Distributed Mean Estimation: Accuracy vs Communication [[Paper]](https://arxiv.org/abs/1611.07555) Frontiers in Applied Mathematics and Statistics, Jakub Konecny and Peter Richtarik, 2016
 * Error Feedback Fixes SignSGD and other Gradient Compression Schemes [[Paper]](https://arxiv.org/abs/1901.09847) [ICML 2019], Sai Praneeth Karimireddy, Quentin Rebjock, Sebastian Stich, and Martin Jaggi.
-* ATOMO: Communication-efficient Learning via Atomic Sparsification [[Paper]](https://arxiv.org/abs/1806.04090)  [NIPS 2018], H. Wang, S. Sievert, S. Liu, Z. Charles, D. Papailiopoulos, and S. Wright. 
 * ZipML: Training Linear Models with End-to-End Low Precision, and a Little Bit of Deep Learning [[Paper]](http://proceedings.mlr.press/v70/zhang17e.html) [ICML 2017], H. Zhang, J. Li, K. Kara, D. Alistarh, J. Liu, and C. Zhang.
-
-
 
 ### Important-Based Updating
 
 * eSGD: Communication Efficient Distributed Deep Learning on the Edge [[Paper]](https://www.usenix.org/conference/hotedge18/presentation/tao) [USENIX 2018 Workshop (HotEdge 18)]
 * CMFL: Mitigating Communication Overhead for Federated Learning [[Paper]](http://home.cse.ust.hk/~lwangbm/CMFL.pdf)
 
+
+### Decentralization
+
+* Communication Compression for Decentralized Training [[Paper]](https://arxiv.org/abs/1803.06443) [NIPS 2018], H. Tang, S. Gan, C. Zhang, T. Zhang, and J. Liu.
+* 𝙳𝚎𝚎𝚙𝚂𝚚𝚞𝚎𝚎𝚣𝚎: Decentralization Meets Error-Compensated Compression [[Paper]](https://arxiv.org/abs/1907.07346) Hanlin Tang, Xiangru Lian, Shuang Qiu, Lei Yuan, Ce Zhang, Tong Zhang, and Ji Liu, 2019
 
 
 ## Resource Allocation
@@ -243,6 +246,7 @@ Note:
 * Learning Differentially Private Recurrent Language Models [[Paper]](https://arxiv.org/abs/1710.06963)
 * Federated Learning with Bayesian Differential Privacy [[Paper]](https://arxiv.org/abs/1911.10071) (NIPS2019 Workshop)
 * Private Federated Learning with Domain Adaptation [[Paper]](https://arxiv.org/abs/1912.06733) (NIPS2019 Workshop)
+* cpSGD: Communication-efficient and differentially-private distributed SGD [[Paper]](https://arxiv.org/abs/1805.10559)
 
 #### PATE
 
