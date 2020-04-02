@@ -100,7 +100,7 @@ Note:
 
 * Federated Learning with Non-IID Data [[Paper]](https://arxiv.org/abs/1806.00582) 
 * The Non-IID Data Quagmire of Decentralized Machine Learning [[Paper]](https://arxiv.org/abs/1910.00189)
-* Robust and Communication-Efficient Federated Learning from Non-IID Data [[Paper]](https://arxiv.org/pdf/1903.02891)
+* Robust and Communication-Efficient Federated Learning from Non-IID Data [[Paper]](https://arxiv.org/pdf/1903.02891) [IEEE transactions on neural networks and learning systems]
 * FedMD: Heterogenous Federated Learning via Model Distillation [[Paper]](https://arxiv.org/abs/1910.03581) (NIPS2019 Workshop)
 * First Analysis of Local GD on Heterogeneous Data [[Paper]](https://arxiv.org/abs/1909.04715)
 * SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378)
@@ -166,7 +166,7 @@ Note:
 * Two-Stream Federated Learning: Reduce the Communication Costs [[Paper]](https://ieeexplore.ieee.org/document/8698609) [2018 IEEE VCIP] 
 * Client-Edge-Cloud Hierarchical Federated Learning [[Paper]](https://arxiv.org/abs/1905.06641)
 * **PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization** [[Paper]](https://arxiv.org/abs/1905.13727) [NIPS 2019], Thijs Vogels, Sai Praneeth Karimireddy, and Martin Jaggi. 
-* Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training [[Paper]](https://arxiv.org/abs/1712.01887), Yujun Lin, Song Han, Huizi Mao, Yu Wang, and William J Dally, 2018
+* Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training [[Paper]](https://arxiv.org/abs/1712.01887) [ICLR 2018] Yujun Lin, Song Han, Huizi Mao, Yu Wang, and William J Dally
 * The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication [[Paper]](https://arxiv.org/abs/1909.05350) Sebastian U Stich and Sai Praneeth Karimireddy, 2019.
 
 
@@ -402,7 +402,12 @@ Google
 
 * Privacy.ai [[Website]](https://privacy.ai/)
 * OpenMined [[Website]](https://www.openmined.org/)
-* Arkhn [[Website]](https://arkhn.org/en/)
-* Snips [[Website]](https://snips.ai/)
+* Arkhn [[Website]](https://arkhn.org/en/): Healthcare data
+* Owkin [[Website]](https://owkin.com/): Medical research
+* Snips [[Website]](https://snips.ai/): Voice platform
+* XAIN [[Website]](https://www.xain.io/) [[Github]](https://github.com/xainag/xain-fl): Automated Invoicing
+* S20 [[Website]](https://www.s20.ai/): Multiple third party collaboration
+
+
 
 
