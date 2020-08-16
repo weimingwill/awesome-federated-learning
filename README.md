@@ -10,7 +10,7 @@ This repository maintains a collection of papers, articles, videos, frameworks, 
 Note:
 
 * **Italic** contents are the ones worth reading
-* **Pull requests** are highly welcomed
+* Last Update: 16 Aug, 2020
 
 
 
@@ -50,7 +50,7 @@ Note:
   - [Workshops](#workshops)
   - [Applications](#applications)
     - [Healthcare](#healthcare)
-    - [Language Model](#language-model)
+    - [Natual Language Processing](#natual-language-processing)
     - [Computer Vision](#computer-vision)
     - [Recommendation](#recommendation)
     - [Industrial](#industrial)
@@ -120,8 +120,8 @@ Note:
 * FedMAX: Activation Entropy Maximization Targeting Effective Non-IID Federated Learning [[Video]](#workshop) [NIPS 2019 Workshop]
 * Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification [[Paper]](https://arxiv.org/abs/1909.06335) [NIPS 2019 Workshop]
 * Fair Resource Allocation in Federated Learning [[Paper]](https://arxiv.org/abs/1905.10497)
-*  Communication-efficient on-device machine learning: Federated distillation and augmentation under non-iid private data [[Paper]](https://arxiv.org/abs/1811.11479)
-
+* Communication-efficient on-device machine learning: Federated distillation and augmentation under non-iid private data [[Paper]](https://arxiv.org/abs/1811.11479)
+* Think Locally, Act Globally: Federated Learning with Local and Global Representations [[Paper]](https://arxiv.org/abs/2001.01523) [NIPS 2019 Workshop]
 
 ### Meta Learning
 
@@ -161,6 +161,7 @@ Note:
 * Demonstration of Federated Learning in a Resource-Constrained Networked Environment [[Paper]](https://ieeexplore.ieee.org/document/8784064)
 * Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [[Paper]](https://arxiv.org/abs/1907.09693)
 * Applied Federated Learning: Improving Google Keyboard Query Suggestions [[Paper]](https://arxiv.org/abs/1812.02903)
+* Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy [[Paper]](https://arxiv.org/abs/2007.00914) (Startup)
 
 
 ## Communication Efficiency
@@ -393,8 +394,11 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
 * Split learning for health: Distributed deep learning without sharing raw patient data [[Paper]](https://arxiv.org/pdf/1812.00564)
 * Two-stage Federated Phenotyping and Patient Representation Learning [[Paper]](https://www.aclweb.org/anthology/W19-5030.pdf) [ACL 2019]
 * Federated Tensor Factorization for Computational Phenotyping https://dl.acm.org/doi/10.1145/3097983.3098118 SIGKDD 2017
+* FedHealth- A Federated Transfer Learning Framework for Wearable Healthcare [[Paper]](https://arxiv.org/abs/1907.09173) [ICJAI19 workshop]
+* Multi-Institutional Deep Learning Modeling Without Sharing Patient Data- A Feasibility Study on Brain Tumor Segmentation [[Paper]](https://arxiv.org/abs/1810.04304) [MICCAI'18 Workshop]
+* Federated Patient Hashing [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6121) [AAAI'20]
   
-### Language Model
+### Natual Language Processing
 
 Google
 
@@ -411,6 +415,8 @@ Snips
 
 * Real-World Image Datasets for Federated Learning [[Paper]](https://arxiv.org/abs/1910.11089)
   * Webank & Extreme Vision
+* FedVision- An Online Visual Object Detection Platform Powered by Federated Learning [[Paper]](https://arxiv.org/abs/2001.06202) [IAAI20]
+* Federated Learning for Vision-and-Language Grounding Problems [[Paper]](http://web.pkusz.edu.cn/adsp/files/2019/11/AAAI-FenglinL.1027.pdf) [AAAI20]
 
 ### Recommendation
 
