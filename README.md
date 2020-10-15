@@ -413,7 +413,7 @@ Snips
 
 ### Computer Vision
 
-* Performance Optimization for Federated Person Re-identification via Benchmark Analysis [[Paper]](https://arxiv.org/abs/2008.11560) [ACMMM20]
+* Performance Optimization for Federated Person Re-identification via Benchmark Analysis [[Paper]](https://arxiv.org/abs/2008.11560) [ACMMM20] [[Github]](https://github.com/cap-ntu/FedReID)
 * Real-World Image Datasets for Federated Learning [[Paper]](https://arxiv.org/abs/1910.11089)
   * Webank & Extreme Vision
 * FedVision- An Online Visual Object Detection Platform Powered by Federated Learning [[Paper]](https://arxiv.org/abs/2001.06202) [IAAI20]
