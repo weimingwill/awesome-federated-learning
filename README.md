@@ -20,6 +20,7 @@ Note:
   - [Benchmarks](#benchmarks)
   - [Model Aggregation](#model-aggregation)
   - [Statistical Heterogeneity](#statistical-heterogeneity)
+    - [Personalization](#personalization)
     - [Meta Learning](#meta-learning)
     - [Multi-task Learning](#multi-task-learning)
     - [Convergence](#convergence)
@@ -34,6 +35,7 @@ Note:
     - [Incentive Mechanism](#incentive-mechanism)
   - [Vertical Federated Learning](#vertical-federated-learning)
   - [Adversarial Attacks](#adversarial-attacks)
+  - [Decentralized Federated Learning](#decentralized-federated-learning)
   - [Data Privacy and Confidentiality](#data-privacy-and-confidentiality)
     - [Courses](#courses)
     - [Differential Privacy](#differential-privacy)
@@ -54,7 +56,11 @@ Note:
     - [Computer Vision](#computer-vision)
     - [Recommendation](#recommendation)
     - [Industrial](#industrial)
+    - [Finance](#finance)
   - [Company](#company)
+  - [Backups](#backups)
+    - [Privacy and Security](#privacy-and-security)
+    - [Un-org](#un-org)
 
 
 ## Introduction
@@ -72,17 +78,18 @@ Note:
 
 * Federated Machine Learning: Concept and Applications [[Paper]](https://dl.acm.org/citation.cfm?id=3298981)
 * Federated Learning: Challenges, Methods, and Future Directions [[Paper]](https://arxiv.org/abs/1908.07873)
+* Advances and Open Problems in Federated Learning [[Paper]](https://arxiv.org/abs/1912.04977)
 * Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [[Paper]](https://arxiv.org/abs/1907.09693)
 * Federated Learning in Mobile Edge Networks: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/1909.11875)
 * Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges [[Paper]](https://arxiv.org/abs/1908.06847)
-* Convergence of Edge Computing and Deep Learning: A Comprehensive Survey [[Paper]](https://arxiv.org/pdf/1907.08349.pdf)
-* Advances and Open Problems in Federated Learning [[Paper]](https://arxiv.org/abs/1912.04977)
+* A Review of Applications in Federated Learning [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360835220305532)
 
 
 
 ## Benchmarks
 
 * LEAF: A Benchmark for Federated Settings [[Paper]](https://arxiv.org/abs/1812.01097) [[Github]](https://github.com/TalwalkarLab/leaf) [Recommend]
+* The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems [[Paper]](https://arxiv.org/abs/2006.07856)
 * A Performance Evaluation of Federated Learning Algorithms [[Paper]](https://www.researchgate.net/profile/Gregor_Ulm/publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms/links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf)
 * Edge AIBench: Towards Comprehensive End-to-end Edge Computing Benchmarking [[Paper]](https://arxiv.org/abs/1908.01924)
 
@@ -91,7 +98,7 @@ Note:
 ## Model Aggregation
 
 * One-Shot Federated Learning [[Paper]](https://arxiv.org/abs/1902.11175)
-* Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating [[Paper]](https://arxiv.org/abs/1910.08234) (NIPS 2019 Workshop)
+* Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating [[Paper]](https://arxiv.org/abs/1910.08234) [NIPS]2019 Workshop)
 * Bayesian Nonparametric Federated Learning of Neural Networks [[Paper]](https://arxiv.org/abs/1905.12022) (ICML 2019)
 * Agnostic Federated Learning [[Paper]](https://arxiv.org/abs/1902.00146) (ICML 2019)
 * Federated Learning with Matched Averaging [[Paper]](https://openreview.net/forum?id=BkluqlSFDS) (ICLR 2020)
@@ -104,15 +111,14 @@ Note:
 * Federated Learning with Non-IID Data [[Paper]](https://arxiv.org/abs/1806.00582) 
 * The Non-IID Data Quagmire of Decentralized Machine Learning [[Paper]](https://arxiv.org/abs/1910.00189)
 * Robust and Communication-Efficient Federated Learning from Non-IID Data [[Paper]](https://arxiv.org/pdf/1903.02891) [IEEE transactions on neural networks and learning systems]
-* FedMD: Heterogenous Federated Learning via Model Distillation [[Paper]](https://arxiv.org/abs/1910.03581) (NIPS 2019 Workshop)
+* FedMD: Heterogenous Federated Learning via Model Distillation [[Paper]](https://arxiv.org/abs/1910.03581) [NIPS 2019 Workshop]
 * First Analysis of Local GD on Heterogeneous Data [[Paper]](https://arxiv.org/abs/1909.04715)
 * SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378)
 * Federated Optimization for Heterogeneous Networks [[Paper]](https://arxiv.org/pdf/1812.06127)
 * On the Convergence of FedAvg on Non-IID Data [[Paper]](https://arxiv.org/abs/1907.02189) [[OpenReview]](https://openreview.net/forum?id=HJxNAnVtDS)
 * Agnostic Federated Learning [[Paper]](https://arxiv.org/abs/1902.00146) (ICML 2019)
 * Local SGD Converges Fast and Communicates Little [[Paper]](https://arxiv.org/abs/1805.09767)
-* Improving Federated Learning Personalization via Model Agnostic Meta Learning [[Paper]](https://arxiv.org/abs/1909.12488) (NIPS 2019 Workshop)
-* Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717) (NIPS 2019 Workshop)
+* Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717) [NIPS 2019 Workshop]
 * Federated Adversarial Domain Adaptation [[Paper]](https://arxiv.org/abs/1911.02054) (ICLR 2020)
 * LoAdaBoost: Loss-Based AdaBoost Federated Machine Learning on Medical Data [[Paper]](https://arxiv.org/pdf/1811.12629)
 * On Federated Learning of Deep Networks from Non-IID Data: Parameter Divergence and the Effects of Hyperparametric Methods [[Paper]](https://openreview.net/forum?id=SJeOAJStwB) [Rejected in ICML 2020]
@@ -122,6 +128,14 @@ Note:
 * Fair Resource Allocation in Federated Learning [[Paper]](https://arxiv.org/abs/1905.10497)
 * Communication-efficient on-device machine learning: Federated distillation and augmentation under non-iid private data [[Paper]](https://arxiv.org/abs/1811.11479)
 * Think Locally, Act Globally: Federated Learning with Local and Global Representations [[Paper]](https://arxiv.org/abs/2001.01523) [NIPS 2019 Workshop]
+
+### Personalization
+
+* Improving Federated Learning Personalization via Model Agnostic Meta Learning [[Paper]](https://arxiv.org/abs/1909.12488) [NIPS 2019]Workshop)
+* Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach [[Paper]](https://arxiv.org/abs/2002.07948) [NeurIPS 2020]
+* Lower Bounds and Optimal Algorithms for Personalized Federated Learning	[[Paper]](https://arxiv.org/abs/2010.02372) [NeurIPS 2020]
+* Personalized Federated Learning with Moreau Envelopes	[[Paper]](https://arxiv.org/abs/2006.08848) [NeurIPS 2020]
+
 
 ### Meta Learning
 
@@ -242,6 +256,12 @@ Note:
 * Can You Really Backdoor Federated Learning? [[Paper]](https://arxiv.org/abs/1911.07963)
 * Model Poisoning Attacks in Federated Learning [[Paper]](https://dais-ita.org/sites/default/files/main_secml_model_poison.pdf) [NIPS workshop 2018]
 
+## Decentralized Federated Learning
+
+* Decentralized Federated Learning: A Segmented Gossip Approach [[Paper]](https://arxiv.org/abs/1908.07782)
+* Peer-to-peer Federated Learning on Graphs [[Paper]](https://arxiv.org/pdf/1901.11173)
+
+
 ## Data Privacy and Confidentiality
 
 * Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning [[Paper]](https://arxiv.org/abs/1805.05838) [NIPS 2019 Workshop]
@@ -326,7 +346,7 @@ Note:
   * Use SPDZ as MPC protocol
 
 #### MPC related Paper
-Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https://arxiv.org/abs/1907.07212) (NIPS 2019 Workshop)
+Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https://arxiv.org/abs/1907.07212) [NIPS 2019 Workshop]
 
 
 
@@ -393,10 +413,14 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
   * Nvidia
 * Split learning for health: Distributed deep learning without sharing raw patient data [[Paper]](https://arxiv.org/pdf/1812.00564)
 * Two-stage Federated Phenotyping and Patient Representation Learning [[Paper]](https://www.aclweb.org/anthology/W19-5030.pdf) [ACL 2019]
-* Federated Tensor Factorization for Computational Phenotyping https://dl.acm.org/doi/10.1145/3097983.3098118 SIGKDD 2017
+* Federated Tensor Factorization for Computational Phenotyping [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098118) SIGKDD 2017
 * FedHealth- A Federated Transfer Learning Framework for Wearable Healthcare [[Paper]](https://arxiv.org/abs/1907.09173) [ICJAI19 workshop]
 * Multi-Institutional Deep Learning Modeling Without Sharing Patient Data- A Feasibility Study on Brain Tumor Segmentation [[Paper]](https://arxiv.org/abs/1810.04304) [MICCAI'18 Workshop]
 * Federated Patient Hashing [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6121) [AAAI'20]
+* Federated Learning in Distributed Medical Databases: Meta-Analysis of Large-Scale Subcortical Brain Data [[Paper]](https://arxiv.org/abs/1810.08553)
+* Confederated Machine Learning on Horizontally and Vertically Separated Medical Data for Large-Scale Health System Intelligence [[Paper]](https://arxiv.org/abs/1910.02109)
+* Privacy-Preserving Deep Learning Computation for Geo-Distributed Medical Big-Data Platform [[Paper]](http://www.cs.ucf.edu/~mohaisen/doc/dsn19b.pdf)
+* Institutionally Distributed Deep Learning Networks [[Paper]](https://arxiv.org/abs/1709.05929)
   
 ### Natual Language Processing
 
@@ -432,6 +456,10 @@ Snips
 * Turbofan Tycoon Simulation by Cloudera/FastForwardLabs [[Web]](https://turbofan.fastforwardlabs.com/)
 * Firefox Search Bar [[Blog]](https://florian.github.io/federated-learning/) [[Github]](https://github.com/florian/federated-learning) [[Github]](https://github.com/florian/federated-learning-addon) 
   * Detail explaination of their implementationn of Federated Learning in production.
+
+### Finance
+
+* FFD: A Federated Learning Based Method for Credit Card Fraud Detection [Paper](https://link.springer.com/chapter/10.1007/978-3-030-23551-2_2) International Conference on Big Data 2019
 
 ## Company
 
