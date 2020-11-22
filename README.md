@@ -58,9 +58,6 @@ Note:
     - [Industrial](#industrial)
     - [Finance](#finance)
   - [Company](#company)
-  - [Backups](#backups)
-    - [Privacy and Security](#privacy-and-security)
-    - [Un-org](#un-org)
 
 
 ## Introduction
@@ -113,7 +110,7 @@ Note:
 * Robust and Communication-Efficient Federated Learning from Non-IID Data [[Paper]](https://arxiv.org/pdf/1903.02891) [IEEE transactions on neural networks and learning systems]
 * FedMD: Heterogenous Federated Learning via Model Distillation [[Paper]](https://arxiv.org/abs/1910.03581) [NIPS 2019 Workshop]
 * First Analysis of Local GD on Heterogeneous Data [[Paper]](https://arxiv.org/abs/1909.04715)
-* SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378)
+* SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378) [ICML20]
 * Federated Optimization for Heterogeneous Networks [[Paper]](https://arxiv.org/pdf/1812.06127)
 * On the Convergence of FedAvg on Non-IID Data [[Paper]](https://arxiv.org/abs/1907.02189) [[OpenReview]](https://openreview.net/forum?id=HJxNAnVtDS)
 * Agnostic Federated Learning [[Paper]](https://arxiv.org/abs/1902.00146) (ICML 2019)
@@ -176,7 +173,7 @@ Note:
 * Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [[Paper]](https://arxiv.org/abs/1907.09693)
 * Applied Federated Learning: Improving Google Keyboard Query Suggestions [[Paper]](https://arxiv.org/abs/1812.02903)
 * Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy [[Paper]](https://arxiv.org/abs/2007.00914) (Startup)
-
+* When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning [[Paper]](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf) [IEEE INFOCOM 2018]
 
 ## Communication Efficiency
 
@@ -470,7 +467,3 @@ Snips
 * Snips [[Website]](https://snips.ai/): Voice platform
 * XAIN [[Website]](https://www.xain.io/) [[Github]](https://github.com/xainag/xain-fl): Automated Invoicing
 * S20 [[Website]](https://www.s20.ai/): Multiple third party collaboration
-
-
-
-
