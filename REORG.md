@@ -11,8 +11,6 @@ A curated list of research in federated learning. Link to the code if available 
 <!-- ![Federated learning research is booming.](images/fl-paper-stats.png) -->
 Federated learning research is booming. We organize the papers by their targeting problem and by conference. 
 
-* *Communication-Efficient Learning of Deep Networks from Decentralized Data* [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) [Google] **[Must Read]**
-
 ## General Resources
 
 - [Blogs](#blogs)
@@ -22,28 +20,33 @@ Federated learning research is booming. We organize the papers by their targetin
 - [Frameworks](#frameworks)
 - [Company](#company)
 
+
 ## Paper (By research area)
+
+* Communication-Efficient Learning of Deep Networks from Decentralized Data* [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) [Google] **[Must Read]**
 
 - [Statistical Heterogeneity](./areas/statistical-heterogeneity.md)
 - [Communication Efficiency](./areas/communication-efficiency.md)
 - [System](./areas/system.md): federated learning system design, frameworks, edge AI, etc.
 - [Trustworthiness](./areas/trustworthiness.md): privacy, security, fairness
 - [Decentralzied FL](./areas/decentralized-fl.md)
+- [Applications](./areas/applications.md)
 - [Vertical FL](./areas/vertical-fl.md)
 - [FL + {X}](./areas/fl+x-learning.md): FL + reinforcement learning, FL + transfer learning, etc. 
-- [Applications](./areas/applications.md)
 
 ## Paper (By conference)
 
 - [Federated learning paper by conferences](conferences.md): NIPS, ICML, ICLR, etc.
 
-## Blogs
+---
+
+### Blogs
 
 * Federated Learning Comic [[Google Blog]](https://federated.withgoogle.com/)
 * Federated Learning: Collaborative Machine Learning without Centralized Training Data [[Google Blog]](http://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 
 
-## Survey
+### Survey
 
 * **Federated Machine Learning: Concept and Applications** [[Paper]](https://dl.acm.org/citation.cfm?id=3298981)
 * **Federated Learning: Challenges, Methods, and Future Directions** [[Paper]](https://arxiv.org/abs/1908.07873)
@@ -55,7 +58,7 @@ Federated learning research is booming. We organize the papers by their targetin
 * A Review of Applications in Federated Learning [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360835220305532)
 
 
-## Benchmarks
+### Benchmarks
 
 * LEAF: A Benchmark for Federated Settings [[Paper]](https://arxiv.org/abs/1812.01097) [[Github]](https://github.com/TalwalkarLab/leaf) [Recommend]
 * The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems [[Paper]](https://arxiv.org/abs/2006.07856)
@@ -63,12 +66,12 @@ Federated learning research is booming. We organize the papers by their targetin
 * A Performance Evaluation of Federated Learning Algorithms [[Paper]](https://www.researchgate.net/profile/Gregor_Ulm/publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms/links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf)
 * Edge AIBench: Towards Comprehensive End-to-end Edge Computing Benchmarking [[Paper]](https://arxiv.org/abs/1908.01924)
 
-## Video
+### Video
 
 * GDPR, Data Shotrage and AI (AAAI-19) [[Video]](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang)
 * Federated Learning: Machine Learning on Decentralized Data (Google I/O'19) [[Youtube]](https://www.youtube.com/watch?v=89BGjQYA0uE)
 
-## Frameworks
+### Frameworks
 
 * PySyft [[Github]](https://github.com/OpenMined/PySyft)
   * A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017)
@@ -78,7 +81,7 @@ Federated learning research is booming. We organize the papers by their targetin
 * Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
 * Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
 
-## Company
+### Company
 
 * Privacy.ai [[Website]](https://privacy.ai/)
 * OpenMined [[Website]](https://www.openmined.org/)
