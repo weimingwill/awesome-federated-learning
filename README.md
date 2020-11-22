@@ -23,8 +23,6 @@ Federated learning research is booming. We organize the papers by their targetin
 
 ## Paper (By research area)
 
-* Communication-Efficient Learning of Deep Networks from Decentralized Data* [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) [Google] **[Must Read]**
-
 - [Statistical Heterogeneity](./areas/statistical-heterogeneity.md)
 - [Communication Efficiency](./areas/communication-efficiency.md)
 - [System](./areas/system.md): federated learning system design, frameworks, edge AI, etc.
@@ -33,6 +31,8 @@ Federated learning research is booming. We organize the papers by their targetin
 - [Applications](./areas/applications.md)
 - [Vertical FL](./areas/vertical-fl.md)
 - [FL + {X}](./areas/fl+x-learning.md): FL + reinforcement learning, FL + transfer learning, etc. 
+
+* **Communication-Efficient Learning of Deep Networks from Decentralized Data** [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) [Google] **[Must Read]**
 
 ## Paper (By conference)
 
