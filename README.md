@@ -11,8 +11,6 @@ A curated list of research in federated learning. Link to the code if available 
 <!-- ![Federated learning research is booming.](images/fl-paper-stats.png) -->
 Federated learning research is booming. We organize the papers by their targeting problem and by conference. 
 
-> Note: if your publication is not included, please create a github issue.
-
 > Last update: 22 Nov, 2020
 
 ## General Resources
