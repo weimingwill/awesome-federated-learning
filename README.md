@@ -44,6 +44,7 @@ Federated learning research is booming. We organize the papers by their targetin
 
 ### Blogs
 
+* Flower: A Friendly Federated Learning Framework [[Flower Blog]](https://flower.dev/blog/)
 * Federated Learning Comic [[Google Blog]](https://federated.withgoogle.com/)
 * Federated Learning: Collaborative Machine Learning without Centralized Training Data [[Google Blog]](http://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 

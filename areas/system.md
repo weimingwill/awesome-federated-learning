@@ -11,6 +11,8 @@
 
 ## Frameworks
 
+* Flower [[Web]](https://flower.dev/)
+  * Flower: A Friendly Federated Learning Framework [[Paper]](https://arxiv.org/abs/2007.14390)
 * PySyft [[Github]](https://github.com/OpenMined/PySyft)
   * A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017)
 * Tensorflow Federated [[Web]](https://www.tensorflow.org/federated)
