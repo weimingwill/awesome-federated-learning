@@ -85,6 +85,7 @@ Federated learning research is booming. We organize the papers by their targetin
 
 ### Company
 
+* Adap [[Website]](https://adap.com/): Fleet Intelligence
 * Privacy.ai [[Website]](https://privacy.ai/)
 * OpenMined [[Website]](https://www.openmined.org/)
 * Arkhn [[Website]](https://arkhn.org/en/): Healthcare data
