@@ -5,14 +5,13 @@
 
 ## System Design
 
-* Flower: A Friendly Federated Learning Framework [[Paper]](https://arxiv.org/abs/2007.14390)
 * *Towards Federated Learning at Scale: System Design* [[Paper]](https://arxiv.org/abs/1902.01046) **[Must Read]**
 * Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy [[Paper]](https://arxiv.org/abs/2007.00914) (Startup)
+* Flower: A Friendly Federated Learning Framework [[Paper]](https://arxiv.org/abs/2007.14390)
 * Demonstration of Federated Learning in a Resource-Constrained Networked Environment [[Paper]](https://ieeexplore.ieee.org/document/8784064)
 
 ## Frameworks
 
-* Flower [[Web]](https://flower.dev/)
 * PySyft [[Github]](https://github.com/OpenMined/PySyft)
   * A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017)
 * Tensorflow Federated [[Web]](https://www.tensorflow.org/federated)
@@ -20,6 +19,7 @@
 * FedLearner [[Github]](https://github.com/bytedance/fedlearner) ByteDance
 * Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
 * Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
+* Flower [[Web]](https://flower.dev/)
 
 ## Applications On Edge
 
