@@ -11,6 +11,8 @@ A curated list of research in federated learning. Link to the code if available 
 <!-- ![Federated learning research is booming.](images/fl-paper-stats.png) -->
 Federated learning research is booming. We organize the papers by their targeting problem and by conference. 
 
+> Last update: 22 Nov, 2020
+
 ## General Resources
 
 - [Blogs](#blogs)
@@ -83,6 +85,7 @@ Federated learning research is booming. We organize the papers by their targetin
 
 ### Company
 
+* Adap [[Website]](https://adap.com/): Fleet Intelligence
 * Privacy.ai [[Website]](https://privacy.ai/)
 * OpenMined [[Website]](https://www.openmined.org/)
 * Arkhn [[Website]](https://arkhn.org/en/): Healthcare data
