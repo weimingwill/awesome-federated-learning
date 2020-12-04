@@ -4,6 +4,10 @@
 * Communication Compression for Decentralized Training [[Paper]](https://arxiv.org/abs/1803.06443) [NIPS 2018], H. Tang, S. Gan, C. Zhang, T. Zhang, and J. Liu.
 * 𝙳𝚎𝚎𝚙𝚂𝚚𝚞𝚎𝚎𝚣𝚎: Decentralization Meets Error-Compensated Compression [[Paper]](https://arxiv.org/abs/1907.07346) Hanlin Tang, Xiangru Lian, Shuang Qiu, Lei Yuan, Ce Zhang, Tong Zhang, and Ji Liu, 2019
 * Decentralized Bayesian Learning over Graphs[[Paper]](https://arxiv.org/pdf/1905.10466.pdf)
+* BrainTorrent: A Peer-to-Peer Environment for Decentralized Federated Learning [[Paper]](https://arxiv.org/pdf/1905.06731.pdf)
+* Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent [[Paper]](https://arxiv.org/pdf/1705.09056.pdf)
+* Matcha: Speeding Up Decentralized SGD via Matching Decomposition Sampling [[Paper]](https://arxiv.org/pdf/1905.09435.pdf)
+* Biscotti: A Ledger for Private and Secure Peer-to-Peer Machine Learning [[Paper]](https://arxiv.org/pdf/1811.09904.pdf)
 
 ## Incentive Mechanism
 

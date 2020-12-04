@@ -19,8 +19,13 @@
 * Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
 * Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
 
+## Applications On Edge
+
+* A Privacy-Preserving Deep Learning Approach for Face Recognition with Edge Computing [[Paper]](https://www.usenix.org/system/files/conference/hotedge18/hotedge18-papers-mao.pdf) [HotEdge18]
+
 ## Edge AI
 
+* DeCaf: Iterative Collaborative Processing over the Edge [[Paper]](https://www.usenix.org/conference/hotedge19/presentation/kumar) [HotEdge19]
 * When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning [[Paper]](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf) [IEEE INFOCOM 2018]
 * Astraea: Self-balancing federated learning for improving classification accuracy of mobile deep learning applications [[Paper]](https://arxiv.org/abs/1907.01132)
 * Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge [[Paper]](https://arxiv.org/abs/1804.08333) (FedCS)
