@@ -45,3 +45,51 @@
 * Federated Learning with Only Positive Labels [[Paper]](https://arxiv.org/pdf/2004.10342.pdf) [Google]
 * SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378)
 * From Local SGD to Local Fixed-Point Methods for Federated Learning [[Paper]](https://arxiv.org/pdf/2004.01442.pdf)
+
+## AAAI
+
+### AAAI 2021
+
+[Accepted Papers](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)
+
+* Federated Multi-Armed Bandits
+* Game of Gradients: Mitigating Irrelevant Clients in Federated Learning
+* Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning
+* Provably Secure Federated Learning against Malicious Clients
+* On the Convergence of Communication-Efficient Local SGD for Federated Learning
+* Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating
+* FedRec++: Lossless Federated Recommendation with Explicit Feedback
+* Communication-Aware Collaborative Learning [[Paper]](https://arxiv.org/abs/2012.10569)
+* Peer Collaborative Learning for Online Knowledge Distillation [[Paper]](https://arxiv.org/abs/2006.04147)
+* A Communication Efficient Collaborative Learning Framework for Distributed Features [[Paper]](https://arxiv.org/abs/1912.11187)
+* Defending Against Backdoors in Federated Learning with Robust Learning Rate [[Paper]](https://arxiv.org/pdf/2007.03767.pdf)
+* FLAME: Differentially Private Federated Learning in the Shuffle Model [[Paper]](https://arxiv.org/abs/2009.08063)
+* Toward Understanding the Influence of Individual Clients in Federated Learning [[Paper]](https://arxiv.org/abs/2012.10936)
+* Personalized Cross-Silo Federated Learning on Non-IID Data [[Paper]](https://arxiv.org/abs/2007.03797)
+* Model-sharing Games: Analyzing Federated Learning Under Voluntary Participation [[Paper]](https://arxiv.org/abs/2010.00753)
+* Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models [[Paper]](https://arxiv.org/abs/2012.13900)
+* Addressing Class Imbalance in Federated Learning [[Paper]](https://arxiv.org/abs/2008.06217)
+
+## IJCAI
+
+### IJCAI 2021
+
+[Workshop on Federated Learning for User Privacy and Data Confidentiality](http://fl-ijcai20.federated-learning.org/)
+
+* Collaborative Learning of Depth Estimation, Visual Odometry and Camera Relocalization from Monocular Videos [[Paper]](https://www.ijcai.org/Proceedings/2020/0068.pdf)
+* A Multi-player Game for Studying Federated Learning Incentive Schemes [[Paper]](https://www.ijcai.org/Proceedings/2020/0769.pdf) [IJCAI 2021 Demonstration Track]
+* Federated Meta-Learning for Fraudulent Credit Card Detection [[Paper]](https://www.ijcai.org/Proceedings/2020/0642.pdf) [IJCAI 2021 Special Track on FinTech]
+* Collaborative Fairness in Federated Learning [[Paper]](https://arxiv.org/abs/2008.12161) [IJCAI 2021 Workshop Best Paper] 
+* FPGA-Based Hardware Accelerator of Homomorphic Encryption for Efficient Federated Learning [[Paper]](FPGA-Based Hardware Accelerator of Homomorphic Encryption for Efficient Federated Learning) [IJCAI 2021 Workshop Best Student Paper]
+* Federated Learning with Diversified Preference for Humor Recognition [[Paper]](https://arxiv.org/abs/2012.01675) [IJCAI 2021 Best Application Paper]
+* Heterogeneous Data-Aware Federated Learning [[Paper]](https://arxiv.org/abs/2011.06393) [IJCAI 2021 Workshop]
+* Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention [[Paper]](https://arxiv.org/abs/2006.10517) [IJCAI 2021 Workshop]
+* FedMVT: Semi-supervised Vertical Federated Learning with MultiView Training [[Paper]](https://arxiv.org/abs/2008.10838) [IJCAI 2021 Workshop]
+* FOCUS: Dealing with Label Quality Disparity in Federated Learning [[Paper]](https://arxiv.org/abs/2001.11359) [IJCAI 2021 Workshop]
+* Fed-Focal Loss for imbalanced data classification in Federated Learning [[Paper]](https://arxiv.org/abs/2011.06283) [IJCAI 2021 Workshop]
+* Threats to Federated Learning: A Survey [[Paper]](https://arxiv.org/abs/2003.02133) [IJCAI 2021 Workshop]
+* Asymmetrical Vertical Federated Learning [[Paper]](https://arxiv.org/abs/2004.07427) [IJCAI 2021 Workshop]
+* Federated Learning System without Model Sharing through Integration of Dimensional Reduced Data Representations [[Paper]](https://arxiv.org/abs/2011.06803) [IJCAI 2021 Workshop]
+* Achieving Differential Privacy in Vertically Partitioned Multiparty Learning [[Paper]](https://arxiv.org/abs/1911.04587) [IJCAI 2021 Workshop]
+* Privacy Threats Against Federated Matrix Factorization [[Paper]](https://arxiv.org/abs/2007.01587) [IJCAI 2021 Workshop]
+* TF-SProD: Time Fading based Sensitive Pattern Hiding in Progressive Data [[Paper]](http://fl-ijcai20.federated-learning.org/FL-IJCAI20_paper_17.pdf)  [IJCAI 2021 Workshop]
