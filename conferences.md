@@ -81,7 +81,7 @@
 * Federated Meta-Learning for Fraudulent Credit Card Detection [[Paper]](https://www.ijcai.org/Proceedings/2020/0642.pdf) [IJCAI 2021 Special Track on FinTech]
 * Collaborative Fairness in Federated Learning [[Paper]](https://arxiv.org/abs/2008.12161) [IJCAI 2021 Workshop Best Paper] 
 * FPGA-Based Hardware Accelerator of Homomorphic Encryption for Efficient Federated Learning [[Paper]](FPGA-Based Hardware Accelerator of Homomorphic Encryption for Efficient Federated Learning) [IJCAI 2021 Workshop Best Student Paper]
-* Federated Learning with Diversified Preference for Humor Recognition [[Paper]](https://arxiv.org/abs/2012.01675) [IJCAI 2021 Best Application Paper]
+* Federated Learning with Diversified Preference for Humor Recognition [[Paper]](https://arxiv.org/abs/2012.01675) [IJCAI 2021 Workshop Best Application Paper]
 * Heterogeneous Data-Aware Federated Learning [[Paper]](https://arxiv.org/abs/2011.06393) [IJCAI 2021 Workshop]
 * Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention [[Paper]](https://arxiv.org/abs/2006.10517) [IJCAI 2021 Workshop]
 * FedMVT: Semi-supervised Vertical Federated Learning with MultiView Training [[Paper]](https://arxiv.org/abs/2008.10838) [IJCAI 2021 Workshop]
