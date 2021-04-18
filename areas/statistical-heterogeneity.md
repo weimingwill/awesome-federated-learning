@@ -3,6 +3,7 @@
 * Federated Learning with Non-IID Data [[Paper]](https://arxiv.org/abs/1806.00582) 
 * Federated Optimization for Heterogeneous Networks [[Paper]](https://arxiv.org/pdf/1812.06127)
 * Performance Optimization for Federated Person Re-identification via Benchmark Analysis [[Paper]](https://arxiv.org/abs/2008.11560) [ACMMM20] [[Github]](https://github.com/cap-ntu/FedReID) 
+* Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data [[Paper]](https://arxiv.org/abs/2006.06983)
 
 ## Distributed Optimization
 

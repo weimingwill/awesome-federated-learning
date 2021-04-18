@@ -12,6 +12,7 @@
 * A Communication Efficient Collaborative Learning Framework for Distributed Features [[Paper]](https://arxiv.org/abs/1912.11187) [NIPS 2019 Workshop]
 * Active Federated Learning [[Paper]](https://arxiv.org/abs/1909.12641) [NIPS 2019 Workshop]
 * Communication-Efficient Distributed Optimization in Networks with Gradient Tracking and Variance Reduction [[Paper]](https://arxiv.org/abs/1909.05844) [NIPS 2019 Workshop]
+* FedSCR: Structure-Based Communication Reduction for Federated Learning [[Paper]](https://ieeexplore.ieee.org/document/9303442) [TPDS 2020]
 
 ### Compression
 

@@ -2,6 +2,8 @@
 
 * Federated Learning Approach for Mobile Packet Classification [[Paper]](https://arxiv.org/abs/1907.13113)
 * Federated Learning for Ranking Browser History Suggestions [[Paper]](https://arxiv.org/abs/1911.11807) [NIPS 2019 Workshop]
+* Federated Deep Knowledge Tracing [[Paper]](https://dl.acm.org/doi/10.1145/3437963.3441747) [WSDM21]
+* FedHome: Cloud-Edge based Personalized Federated Learning for In-Home Health Monitoring [[Paper]](https://arxiv.org/abs/2012.07450) [IEEE Transactions on Mobile Computing]
 
 ## Healthcare
 
@@ -29,6 +31,7 @@
 * Confederated Machine Learning on Horizontally and Vertically Separated Medical Data for Large-Scale Health System Intelligence [[Paper]](https://arxiv.org/abs/1910.02109)
 * Privacy-Preserving Deep Learning Computation for Geo-Distributed Medical Big-Data Platform [[Paper]](http://www.cs.ucf.edu/~mohaisen/doc/dsn19b.pdf)
 * Institutionally Distributed Deep Learning Networks [[Paper]](https://arxiv.org/abs/1709.05929)
+* Federated semi-supervised learning for COVID region segmentation in chest CT using multi-national data from China, Italy, Japan [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841521000384)
   
 ## Natual Language Processing
 
