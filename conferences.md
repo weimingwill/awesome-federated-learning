@@ -30,6 +30,9 @@
 * Election Coding for Distributed Learning: Protecting SignSGD against Byzantine Attacks [[Paper]](https://papers.nips.cc/paper/2020/file/a7f0d2b95c60161b3f3c82f764b1d1c9-Paper.pdf)
 * Differentially-Private Federated Linear Bandits [[Paper]](http://web.mit.edu/dubeya/www/files/dp_linucb_20.pdf) [[Slides]](http://web.mit.edu/dubeya/www/files/slides/nips20_fed.pdf) [MIT]
 
+### NeurIPS 2020 Workshop
+* Can Federated Learning Save The Planet? [[Paper]](https://arxiv.org/pdf/2010.06537.pdf) 
+
 ### NeurIPS 2019 Workshop
 
 * NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 1 [[Video]](https://slideslive.com/38921898/workshop-on-federated-learning-for-data-privacy-and-confidentiality-1)

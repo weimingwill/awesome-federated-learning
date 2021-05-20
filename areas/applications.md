@@ -62,6 +62,7 @@
 * Turbofan Tycoon Simulation by Cloudera/FastForwardLabs [[Web]](https://turbofan.fastforwardlabs.com/)
 * Firefox Search Bar [[Blog]](https://florian.github.io/federated-learning/) [[Github]](https://github.com/florian/federated-learning) [[Github]](https://github.com/florian/federated-learning-addon) 
   * Detail explaination of their implementationn of Federated Learning in production.
+* Towards Federated Learning for HVAC Analytics- A Measurement Study [[Paper]](https://dl.acm.org/doi/10.1145/3396851.3397717) [[Github]](https://github.com/BuildFL/BuildFL) [ACM e-Energy 20]
 
 ## Finance
 
