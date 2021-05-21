@@ -62,13 +62,13 @@
 
 [Accepted Papers](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)
 
-* Federated Multi-Armed Bandits
-* Game of Gradients: Mitigating Irrelevant Clients in Federated Learning
-* Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning
-* Provably Secure Federated Learning against Malicious Clients
+* Federated Multi-Armed Bandits [[Paper]](https://arxiv.org/abs/2101.12204)
+* Game of Gradients: Mitigating Irrelevant Clients in Federated Learning [[Paper]](https://www.aminer.cn/pub/6020e3c09e795e62379b5b9b/game-of-gradients-mitigating-irrelevant-clients-in-federated-learning?conf=aaai2021)
+* Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning [[Paper]](https://arxiv.org/abs/2102.00655)
+* Provably Secure Federated Learning against Malicious Clients [[Paper]](https://arxiv.org/abs/2102.01854)
 * On the Convergence of Communication-Efficient Local SGD for Federated Learning
-* Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating
-* FedRec++: Lossless Federated Recommendation with Explicit Feedback
+* Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating [[Paper]](https://arxiv.org/abs/2103.00958)
+* FedRec++: Lossless Federated Recommendation with Explicit Feedback [[PPT]](http://csse.szu.edu.cn/staff/panwk/publications/Conference-AAAI-21-FedRecPlusPlus-Slides.pdf)
 * Communication-Aware Collaborative Learning [[Paper]](https://arxiv.org/abs/2012.10569)
 * Peer Collaborative Learning for Online Knowledge Distillation [[Paper]](https://arxiv.org/abs/2006.04147)
 * A Communication Efficient Collaborative Learning Framework for Distributed Features [[Paper]](https://arxiv.org/abs/1912.11187)
