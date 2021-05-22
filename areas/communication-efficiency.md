@@ -36,5 +36,5 @@
 ### Important-Based Updating
 
 * eSGD: Communication Efficient Distributed Deep Learning on the Edge [[Paper]](https://www.usenix.org/conference/hotedge18/presentation/tao) [USENIX 2018 Workshop (HotEdge 18)]
-* CMFL: Mitigating Communication Overhead for Federated Learning [[Paper]](http://home.cse.ust.hk/~lwangbm/CMFL.pdf)
+* CMFL: Mitigating Communication Overhead for Federated Learning [[Paper]](http://home.cse.ust.hk/~lwangbm/CMFL.pdf) [ICDCS 2019]
 

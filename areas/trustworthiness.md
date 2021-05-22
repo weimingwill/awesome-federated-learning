@@ -36,7 +36,7 @@
 * Protection Against Reconstruction and Its Applications in Private Federated Learning [[Paper]](https://arxiv.org/pdf/1812.00984)
 * Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing [[Paper]](https://arxiv.org/abs/1907.10218)
 * Privacy-Preserving Collaborative Deep Learning with Unreliable Participants [[Paper]](https://arxiv.org/abs/1812.10113)
-* Biscotti: A Ledger for Private and Secure Peer-to-Peer Machine Learning [[Paper]](https://arxiv.org/pdf/1811.09904)
+* Biscotti: A Ledger for Private and Secure Peer-to-Peer Machine Learning [[Paper]](https://arxiv.org/pdf/1811.09904) [ICLR 2021]
 * Dancing in the Dark: Private Multi-Party Machine Learning in an Untrusted Setting [[Paper]](https://arxiv.org/pdf/1811.09712)
 * Privacy-Preserving Deep Learning via Weight Transmission [[Paper]](https://arxiv.org/abs/1809.03272)
 * Learning Private Neural Language Modeling with Attentive Aggregation [[Paper]](https://arxiv.org/pdf/1812.07108), IJCNN 2019 [[Code](https://github.com/shaoxiongji/fed-att)]
