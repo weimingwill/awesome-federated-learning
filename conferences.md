@@ -103,3 +103,18 @@
 * Achieving Differential Privacy in Vertically Partitioned Multiparty Learning [[Paper]](https://arxiv.org/abs/1911.04587) [IJCAI 2021 Workshop]
 * Privacy Threats Against Federated Matrix Factorization [[Paper]](https://arxiv.org/abs/2007.01587) [IJCAI 2021 Workshop]
 * TF-SProD: Time Fading based Sensitive Pattern Hiding in Progressive Data [[Paper]](http://fl-ijcai20.federated-learning.org/FL-IJCAI20_paper_17.pdf)  [IJCAI 2021 Workshop]
+
+## ICLR
+
+### ICLR 2021
+
+Federated Learning Based on Dynamic Regularization [[Paper]](https://openreview.net/forum?id=B7v4QMR6Z9w)
+Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms [[Paper]](https://openreview.net/forum?id=GFsU8a0sGB)
+Adaptive Federated Optimization [[Paper]](https://openreview.net/forum?id=LkFG3lB13U5)
+Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning [[Paper]](https://openreview.net/forum?id=jDdzh5ul-d)
+Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning [[Paper]](https://openreview.net/forum?id=ce6CFXBh30h)
+FedBN: Federated Learning on Non-IID Features via Local Batch Normalization  [[Paper]](https://openreview.net/forum?id=6YEQUn0QICG)
+FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning [[Paper]](https://openreview.net/forum?id=dgtpE6gKjHn)
+FedMix: Approximation of Mixup under Mean Augmented Federated Learning [[Paper]](https://openreview.net/forum?id=Ogga20D2HO-)
+HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients [[Paper]](https://openreview.net/forum?id=TNkPBBYFkXg)
+Personalized Federated Learning with First Order Model Optimization [[Paper]](https://openreview.net/forum?id=ehJqJQk9cw)

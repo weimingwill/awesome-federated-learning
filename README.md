@@ -15,12 +15,16 @@ Federated learning research is booming. We organize the papers by their targetin
 
 ## General Resources
 
-- [Blogs](#blogs)
-- [Survey](#survey)
-- [Benchmarks](#benchmarks)
-- [Video](#video)
-- [Frameworks](#frameworks)
-- [Company](#company)
+- [Awesome Federated Learning](#awesome-federated-learning)
+  - [General Resources](#general-resources)
+  - [Paper (By research area)](#paper-by-research-area)
+  - [Paper (By conference and journal)](#paper-by-conference-and-journal)
+    - [Blogs](#blogs)
+    - [Survey](#survey)
+    - [Benchmarks](#benchmarks)
+    - [Video](#video)
+    - [Frameworks](#frameworks)
+    - [Company](#company)
 
 
 ## Paper (By research area)
@@ -36,9 +40,10 @@ Federated learning research is booming. We organize the papers by their targetin
 
 * **Communication-Efficient Learning of Deep Networks from Decentralized Data** [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) [Google] **[Must Read]**
 
-## Paper (By conference)
+## Paper (By conference and journal)
 
 - [Federated learning paper by conferences](conferences.md): NIPS, ICML, ICLR, etc.
+- [Federated learning paper by journal](journal.md)
 
 ---
 
