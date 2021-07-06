@@ -1,5 +1,11 @@
 # Federated Learning Paper in Conferences
 
+## OSDI
+
+### OSDI 2021
+
+* Oort: Efficient Federated Learning via Guided Participant Selection [[Paper]](https://www.usenix.org/conference/osdi21/presentation/lai)
+
 ## NIPS
 
 ### NeurIPS 2020
