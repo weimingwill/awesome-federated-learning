@@ -100,6 +100,5 @@ Federated learning research is booming. We organize the papers by their targetin
 * Snips [[Website]](https://snips.ai/): Voice platform
 * XAIN [[Website]](https://www.xain.io/) [[Github]](https://github.com/xainag/xain-fl): Automated Invoicing
 * S20 [[Website]](https://www.s20.ai/): Multiple third party collaboration
-
-
-
+* DataFleets [[Website]](https://www.datafleets.com/)
+* Decentralized Machine Learning [[Website]](https://decentralizedml.com/)
