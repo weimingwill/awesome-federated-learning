@@ -118,3 +118,13 @@
 * FedMix: Approximation of Mixup under Mean Augmented Federated Learning [[Paper]](https://openreview.net/forum?id=Ogga20D2HO-)
 * HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients [[Paper]](https://openreview.net/forum?id=TNkPBBYFkXg)
 * Personalized Federated Learning with First Order Model Optimization [[Paper]](https://openreview.net/forum?id=ehJqJQk9cw)
+
+## CVPR 
+
+### CVPR 2021
+
+* Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Multi-Institutional_Collaborations_for_Improving_Deep_Learning-Based_Magnetic_Resonance_Image_Reconstruction_CVPR_2021_paper.html)
+* Model-Contrastive Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.html)
+* FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html)
+* Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.html)
+* Privacy-Preserving Collaborative Learning With Automatic Transformation Search [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Privacy-Preserving_Collaborative_Learning_With_Automatic_Transformation_Search_CVPR_2021_paper.html)
