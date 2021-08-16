@@ -55,6 +55,8 @@
 * SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378)
 * From Local SGD to Local Fixed-Point Methods for Federated Learning [[Paper]](https://arxiv.org/pdf/2004.01442.pdf)
 
+## KDD
+
 ### KDD 2020
 
 * **FedFast:** Going Beyond Average for Faster Training of Federated Recommender Systems [KDD20]
