@@ -64,6 +64,13 @@
 * FedCD: Improving Performance in non-IID Federated Learning [KDD20 Workshop]
 * Resource-Constrained Federated Learning with Heterogeneous Labels and Models [KDD2020 Workshop]
 
+### KDD 2021
+* FLOP: Federated Learning on Medical Datasets using Partial Networks [[Paper]](https://arxiv.org/pdf/2102.05218.pdf)
+* **Federated Adversarial Debiasing** for Fair and Transferable Representations
+* Fed^2: Feature-Aligned Federated Learning
+* Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling [[Paper]](https://arxiv.org/pdf/2106.05223.pdf)
+* FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data [[Paper]](http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf)
+
 ## AAAI
 
 ### AAAI 2021
