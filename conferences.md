@@ -143,3 +143,11 @@
 * FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html)
 * Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.html)
 * Privacy-Preserving Collaborative Learning With Automatic Transformation Search [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Privacy-Preserving_Collaborative_Learning_With_Automatic_Transformation_Search_CVPR_2021_paper.html)
+
+## ICCV
+
+### ICCV 2021
+
+* Collaborative Unsupervised Visual Representation Learning From Decentralized Data [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.html)
+* Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.html)
+* Ensemble Attention Distillation for Privacy-Preserving Federated Learning [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.html)
