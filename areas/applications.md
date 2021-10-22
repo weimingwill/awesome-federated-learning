@@ -10,6 +10,7 @@
 * **The Future of Digital Health with Federated Learning** [[Paper]](https://www.nature.com/articles/s41746-020-00323-1)
   * General guide for FL in healthcare. Nice written paper.
 * HHHFL: Hierarchical Heterogeneous Horizontal Federated Learning for Electroencephalography [[Paper]](https://arxiv.org/abs/1909.05784) [NIPS 2019 Workshop]
+* Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data [[Paper - Nature Scientific Reports 2020]](https://www.nature.com/articles/s41598-020-69250-1) [[News]](https://newsroom.intel.com/news/intel-works-university-pennsylvania-using-privacy-preserving-ai-identify-brain-tumors/)
 * Learn Electronic Health Records by Fully Decentralized Federated Learning [[Paper]](https://arxiv.org/abs/1912.01792) [NIPS 2019 Workshop]
 * Patient Clustering Improves Efficiency of Federated Machine Learning to predict mortality and hospital stay time using distributed Electronic Medical Records [[Paper]](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf) [[News]](https://venturebeat.com/2019/03/25/federated-learning-technique-predicts-hospital-stay-and-patient-mortality/)
   * MIT CSAI, Harvard Medical School, Tsinghua University
