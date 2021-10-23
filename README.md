@@ -80,6 +80,7 @@ Federated learning research is booming. We organize the papers by their targetin
 
 ### Frameworks
 
+* EasyFL [[Paper]](https://arxiv.org/abs/2105.07603)
 * PySyft [[Github]](https://github.com/OpenMined/PySyft)
   * A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017)
 * Tensorflow Federated [[Web]](https://www.tensorflow.org/federated)
