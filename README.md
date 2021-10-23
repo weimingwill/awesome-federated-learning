@@ -88,6 +88,7 @@ Federated learning research is booming. We organize the papers by their targetin
 * Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
 * Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
 * [Flower.dev](https://flower.dev/)
+* [OpenFL](https://github.com/intel/openfl)
 
 
 ### Company
