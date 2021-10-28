@@ -151,3 +151,15 @@
 * Collaborative Unsupervised Visual Representation Learning From Decentralized Data [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.html)
 * Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.html)
 * Ensemble Attention Distillation for Privacy-Preserving Federated Learning [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.html)
+
+## ACMMM
+
+### ACMMM 2021
+
+* Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification [[Paper]](https://arxiv.org/abs/2108.06493) [ACMMM21]
+
+### ACMMM 2020
+
+* Performance Optimization for Federated Person Re-identification via Benchmark Analysis [[Paper]](https://arxiv.org/abs/2008.11560) [ACMMM20] [[Github]](https://github.com/cap-ntu/FedReID)
+
+* Invisible: Federated Learning over Non-Informative Intermediate Updates against Multimedia Privacy Leakages [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413923)
