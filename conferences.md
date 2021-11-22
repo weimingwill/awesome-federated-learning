@@ -8,6 +8,42 @@
 
 ## NIPS
 
+### NeurIPS 2021
+
+* Sageflow: Robust Federated Learning against Both Stragglers and Adversaries [[Paper]](https://papers.nips.cc/paper/2021/hash/076a8133735eb5d7552dc195b125a454-Abstract.html)
+* Catastrophic Data Leakage in Vertical Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html)
+* Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee [[Paper]](https://papers.nips.cc/paper/2021/hash/080acdcce72c06873a773c4311c2e464-Abstract.html)
+* Optimality and Stability in Federated Learning: A Game-theoretic Approach [[Paper]](https://papers.nips.cc/paper/2021/hash/09a5e2a11bea20817477e0b1dfe2cc21-Abstract.html)
+* QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/1dba3025b159cd9354da65e2d0436a31-Abstract.html)
+* The Skellam Mechanism for Differentially Private Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html)
+* No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data [[Paper]](https://papers.nips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)
+* STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal Sample and Communication Complexities for Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/3016a447172f3045b65f5fc83e04b554-Abstract.html)
+* Subgraph Federated Learning with Missing Neighbor Generation [[Paper]](https://papers.nips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html)
+* Evaluating Gradient Inversion Attacks and Defenses in Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html)
+* Personalized Federated Learning With Gaussian Processes [[Paper]](https://papers.nips.cc/paper/2021/hash/46d0671dd4117ea366031f87f3aa0093-Abstract.html)
+* Differentially Private Federated Bayesian Optimization with Distributed Exploration [[Paper]](https://papers.nips.cc/paper/2021/hash/4c27cea8526af8cfee3be5e183ac9605-Abstract.html)
+* Parameterized Knowledge Transfer for Personalized Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html)
+* Federated Reconstruction: Partially Local Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html)
+* Fast Federated Learning in the Presence of Arbitrary Device Unavailability [[Paper]](https://papers.nips.cc/paper/2021/hash/64be20f6dd1dd46adf110cf871e3ed35-Abstract.html)
+* FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout [[Paper]](https://papers.nips.cc/paper/2021/hash/6aed000af86a084f9cb0264161e29dd3-Abstract.html)
+* FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective [[Paper]](https://papers.nips.cc/paper/2021/hash/692baebec3bb4b53d7ebc3b9fabac31b-Abstract.html)
+* Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients [[Paper]](https://papers.nips.cc/paper/2021/hash/7a6bda9ad6ffdac035c752743b7e9d0e-Abstract.html)
+* Federated Multi-Task Learning under a Mixture of Distributions [[Paper]](https://papers.nips.cc/paper/2021/hash/82599a4ec94aca066873c99b4c741ed8-Abstract.html)
+* Federated Graph Classification over Non-IID Graphs [[Paper]](https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html)
+* Federated Hyperparameter Tuning: Challenges, Baselines, and Connections to Weight-Sharing [[Paper]](https://papers.nips.cc/paper/2021/hash/a0205b87490c847182672e8d371e9948-Abstract.html)
+* On Large-Cohort Training for Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/a0205b87490c847182672e8d371e9948-Abstract.html)
+* DeepReduce: A Sparse-tensor Communication Framework for Federated Deep Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/b0ab42fcb7133122b38521d13da7120b-Abstract.html)
+* PartialFed: Cross-Domain Personalized Federated Learning via Partial Initialization [[Paper]](https://papers.nips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html)
+* Federated Split Task-Agnostic Vision Transformer for COVID-19 CXR Diagnosis [[Paper]](https://papers.nips.cc/paper/2021/hash/ceb0595112db2513b9325a85761b7310-Abstract.html)
+* Addressing Algorithmic Disparity and Performance Inconsistency in Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/db8e1af0cb3aca1ae2d0018624204529-Abstract.html)
+* Federated Linear Contextual Bandits [[Paper]](https://papers.nips.cc/paper/2021/hash/e347c51419ffb23ca3fd5050202f9c3d-Abstract.html)
+* Few-Round Learning for Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/f065d878ccfb4cc4f4265a4ff8bafa9a-Abstract.html)
+* Breaking the centralized barrier for cross-device federated learning [[Paper]](https://papers.nips.cc/paper/2021/hash/f0e6be4ce76ccfa73c5a540d992d0756-Abstract.html)
+* Federated-EM with heterogeneity mitigation and variance reduction [[Paper]](https://papers.nips.cc/paper/2021/hash/f740c8d9c193f16d8a07d3a8a751d13f-Abstract.html)
+* Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/fc03d48253286a798f5116ec00e99b2b-Abstract.html)
+* FedDR – Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization [[Paper]](https://papers.nips.cc/paper/2021/hash/fe7ee8fc1959cc7214fa21c4840dff0a-Abstract.html)
+
+
 ### NeurIPS 2020
 
 * Personalized Federated Learning with Moreau Envelopes [[Paper]](https://arxiv.org/abs/2006.08848)
