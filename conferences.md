@@ -81,6 +81,51 @@
 * NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 2 [[Video]](https://slideslive.com/38921899/workshop-on-federated-learning-for-data-privacy-and-confidentiality-2)
 * NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 3 [[Video]](https://slideslive.com/38921900/workshop-on-federated-learning-for-data-privacy-and-confidentiality-3)
 
+## ICLR
+
+### ICLR 2022
+
+#### Spotlight
+
+* On Bridging Generic and Personalized Federated Learning for Image Classification [[Paper]](https://openreview.net/forum?id=I1hQbx10Kxn)
+* Hybrid Local SGD for Federated Learning with Heterogeneous Communications [[Paper]](https://openreview.net/forum?id=H0oaWl6THa)
+* Improving Federated Learning Face Recognition via Privacy-Agnostic Clusters [[Paper]](https://openreview.net/forum?id=7l1IjZVddDW)
+* Byzantine-Robust Learning on Heterogeneous Datasets via Bucketing [[Paper]](https://openreview.net/forum?id=jXKKDEi5vJt)
+
+#### Poster
+
+* Divergence-aware Federated Self-Supervised Learning [[Paper]](https://openreview.net/forum?id=oVE1z8NlNe)
+* FedBABU: Toward Enhanced Representation for Federated Image Classification [[Paper]](https://openreview.net/forum?id=HuaYQfggn5u)
+* What Do We Mean by Generalization in Federated Learning? [[Paper]](https://openreview.net/forum?id=VimqQq-i_Q)
+* Towards Model Agnostic Federated Learning Using Knowledge Distillation [[Paper]](https://openreview.net/forum?id=lQI_mZjvBxj)
+* Diurnal or Nocturnal? Federated Learning of Multi-branch Networks from Periodically Shifting Distributions [[Paper]](https://openreview.net/forum?id=E4EE_ohFGz)
+* Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank? [[Paper]](https://openreview.net/forum?id=B7ZbqNLDn-_)
+* Diverse Client Selection for Federated Learning via Submodular Maximization [[Paper]](https://openreview.net/forum?id=nwKXyFvaUm)
+* ZeroFL: Efficient On-Device Training for Federated Learning with Local Sparsity [[Paper]](https://openreview.net/forum?id=2sDQwC_hmnM)
+* Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models [[Paper]](https://openreview.net/forum?id=fwzUgo0FM9v)
+* Efficient Split-Mix Federated Learning for On-Demand and In-Situ Customization [[Paper]](https://openreview.net/forum?id=_QLmakITKg)
+* An Agnostic Approach to Federated Learning with Class Imbalance [[Paper]](https://openreview.net/forum?id=Xo0lbDt975)
+* FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning [[Paper]](https://openreview.net/forum?id=d71n4ftoCBy)
+* Acceleration of Federated Learning with Alleviated Forgetting in Local Training [[Paper]](https://openreview.net/forum?id=541PxiEKN3F)
+* Reducing the Communication Cost of Federated Learning through Multistage Optimization [[Paper]](https://openreview.net/forum?id=ZaVVVlcdaN)
+* Unsupervised Federated Learning is Possible [[Paper]](https://openreview.net/forum?id=WHA8009laxu)
+* Bayesian Framework for Gradient Leakage [[Paper]](https://openreview.net/forum?id=f2lrIbGx3x7)
+
+
+### ICLR 2021
+
+* Federated Learning Based on Dynamic Regularization [[Paper]](https://openreview.net/forum?id=B7v4QMR6Z9w)
+* Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms [[Paper]](https://openreview.net/forum?id=GFsU8a0sGB)
+* Adaptive Federated Optimization [[Paper]](https://openreview.net/forum?id=LkFG3lB13U5)
+* Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning [[Paper]](https://openreview.net/forum?id=jDdzh5ul-d)
+* Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning [[Paper]](https://openreview.net/forum?id=ce6CFXBh30h)
+* FedBN: Federated Learning on Non-IID Features via Local Batch Normalization  [[Paper]](https://openreview.net/forum?id=6YEQUn0QICG)
+* FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning [[Paper]](https://openreview.net/forum?id=dgtpE6gKjHn)
+* FedMix: Approximation of Mixup under Mean Augmented Federated Learning [[Paper]](https://openreview.net/forum?id=Ogga20D2HO-)
+* HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients [[Paper]](https://openreview.net/forum?id=TNkPBBYFkXg)
+* Personalized Federated Learning with First Order Model Optimization [[Paper]](https://openreview.net/forum?id=ehJqJQk9cw)
+
+
 ## ICML
 
 ### ICML20
@@ -106,6 +151,36 @@
 * Fed^2: Feature-Aligned Federated Learning
 * Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling [[Paper]](https://arxiv.org/pdf/2106.05223.pdf)
 * FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data [[Paper]](http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf)
+
+## CVPR 
+
+### CVPR 2021
+
+* Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Multi-Institutional_Collaborations_for_Improving_Deep_Learning-Based_Magnetic_Resonance_Image_Reconstruction_CVPR_2021_paper.html)
+* Model-Contrastive Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.html)
+* FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html)
+* Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.html)
+* Privacy-Preserving Collaborative Learning With Automatic Transformation Search [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Privacy-Preserving_Collaborative_Learning_With_Automatic_Transformation_Search_CVPR_2021_paper.html)
+
+## ICCV
+
+### ICCV 2021
+
+* Collaborative Unsupervised Visual Representation Learning From Decentralized Data [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.html)
+* Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.html)
+* Ensemble Attention Distillation for Privacy-Preserving Federated Learning [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.html)
+
+## ACMMM
+
+### ACMMM 2021
+
+* Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification [[Paper]](https://arxiv.org/abs/2108.06493) [ACMMM21]
+
+### ACMMM 2020
+
+* Performance Optimization for Federated Person Re-identification via Benchmark Analysis [[Paper]](https://arxiv.org/abs/2008.11560) [ACMMM20] [[Github]](https://github.com/cap-ntu/FedReID)
+
+* Invisible: Federated Learning over Non-Informative Intermediate Updates against Multimedia Privacy Leakages [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413923)
 
 ## AAAI
 
@@ -154,48 +229,3 @@
 * Achieving Differential Privacy in Vertically Partitioned Multiparty Learning [[Paper]](https://arxiv.org/abs/1911.04587) [IJCAI 2021 Workshop]
 * Privacy Threats Against Federated Matrix Factorization [[Paper]](https://arxiv.org/abs/2007.01587) [IJCAI 2021 Workshop]
 * TF-SProD: Time Fading based Sensitive Pattern Hiding in Progressive Data [[Paper]](http://fl-ijcai20.federated-learning.org/FL-IJCAI20_paper_17.pdf)  [IJCAI 2021 Workshop]
-
-## ICLR
-
-### ICLR 2021
-
-* Federated Learning Based on Dynamic Regularization [[Paper]](https://openreview.net/forum?id=B7v4QMR6Z9w)
-* Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms [[Paper]](https://openreview.net/forum?id=GFsU8a0sGB)
-* Adaptive Federated Optimization [[Paper]](https://openreview.net/forum?id=LkFG3lB13U5)
-* Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning [[Paper]](https://openreview.net/forum?id=jDdzh5ul-d)
-* Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning [[Paper]](https://openreview.net/forum?id=ce6CFXBh30h)
-* FedBN: Federated Learning on Non-IID Features via Local Batch Normalization  [[Paper]](https://openreview.net/forum?id=6YEQUn0QICG)
-* FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning [[Paper]](https://openreview.net/forum?id=dgtpE6gKjHn)
-* FedMix: Approximation of Mixup under Mean Augmented Federated Learning [[Paper]](https://openreview.net/forum?id=Ogga20D2HO-)
-* HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients [[Paper]](https://openreview.net/forum?id=TNkPBBYFkXg)
-* Personalized Federated Learning with First Order Model Optimization [[Paper]](https://openreview.net/forum?id=ehJqJQk9cw)
-
-## CVPR 
-
-### CVPR 2021
-
-* Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Multi-Institutional_Collaborations_for_Improving_Deep_Learning-Based_Magnetic_Resonance_Image_Reconstruction_CVPR_2021_paper.html)
-* Model-Contrastive Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.html)
-* FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html)
-* Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.html)
-* Privacy-Preserving Collaborative Learning With Automatic Transformation Search [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Privacy-Preserving_Collaborative_Learning_With_Automatic_Transformation_Search_CVPR_2021_paper.html)
-
-## ICCV
-
-### ICCV 2021
-
-* Collaborative Unsupervised Visual Representation Learning From Decentralized Data [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.html)
-* Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.html)
-* Ensemble Attention Distillation for Privacy-Preserving Federated Learning [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.html)
-
-## ACMMM
-
-### ACMMM 2021
-
-* Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification [[Paper]](https://arxiv.org/abs/2108.06493) [ACMMM21]
-
-### ACMMM 2020
-
-* Performance Optimization for Federated Person Re-identification via Benchmark Analysis [[Paper]](https://arxiv.org/abs/2008.11560) [ACMMM20] [[Github]](https://github.com/cap-ntu/FedReID)
-
-* Invisible: Federated Learning over Non-Informative Intermediate Updates against Multimedia Privacy Leakages [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413923)
