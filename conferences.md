@@ -1,10 +1,16 @@
 # Federated Learning Paper in Conferences
 
-## OSDI
-
-### OSDI 2021
-
-* Oort: Efficient Federated Learning via Guided Participant Selection [[Paper]](https://www.usenix.org/conference/osdi21/presentation/lai)
+## Table of Contents
+* [NIPS](#nips)
+* [ICLR](#iclr)
+* [ICML](#icml)
+* [CVPR](#cvpr)
+* [ICCV](#iccv)
+* [ACMMM](#acmmm)
+* [KDD](#kdd)
+* [OSDI](#osdi)
+* [AAAI](#aaai)
+* [IJCAI](#ijcai)
 
 ## NIPS
 
@@ -181,6 +187,12 @@
 * Performance Optimization for Federated Person Re-identification via Benchmark Analysis [[Paper]](https://arxiv.org/abs/2008.11560) [ACMMM20] [[Github]](https://github.com/cap-ntu/FedReID)
 
 * Invisible: Federated Learning over Non-Informative Intermediate Updates against Multimedia Privacy Leakages [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413923)
+
+## OSDI
+
+### OSDI 2021
+
+* Oort: Efficient Federated Learning via Guided Participant Selection [[Paper]](https://www.usenix.org/conference/osdi21/presentation/lai)
 
 ## AAAI
 
