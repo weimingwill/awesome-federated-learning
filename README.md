@@ -33,7 +33,7 @@ Federated learning research is booming. We organize the papers by their targetin
 - [Communication Efficiency](./areas/communication-efficiency.md)
 - [System](./areas/system.md): federated learning system design, frameworks, edge AI, etc.
 - [Trustworthiness](./areas/trustworthiness.md): privacy, security, fairness
-- [Decentralzied FL](./areas/decentralized-fl.md)
+- [Decentralized FL](./areas/decentralized-fl.md)
 - [Applications](./areas/applications.md)
 - [Vertical FL](./areas/vertical-fl.md)
 - [FL + {X}](./areas/fl+x-learning.md): FL + reinforcement learning, FL + transfer learning, etc. 
