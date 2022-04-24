@@ -14,12 +14,10 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 
 💡 We are thrilled to open-source our federated learning platform, [EasyFL](https://github.com/EasyFL-AI/EasyFL), to enable users with various levels of expertise to experiment and prototype FL applications with little/no coding. It is based on our years of research and we have used it to publish numerous papers in top-tier conferences and journals. You can also use it to get started with federated learning and implement your projects.
 
-## General Resources
-
 - [Awesome Federated Learning](#awesome-federated-learning)
-  - [General Resources](#general-resources)
-  - [Paper (By research area)](#paper-by-research-area)
   - [Paper (By conference and journal)](#paper-by-conference-and-journal)
+  - [Paper (By research area)](#paper-by-research-area)
+  - [General Resources](#general-resources)
     - [Blogs](#blogs)
     - [Survey](#survey)
     - [Benchmarks](#benchmarks)
@@ -27,6 +25,10 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
     - [Frameworks](#frameworks)
     - [Company](#company)
 
+## Paper (By conference and journal)
+
+- [Federated learning paper by conferences](conferences.md): NeurIPS, ICML, ICLR, CVPR, ICCV, AAAI, IJCAI, ACMMM, etc.
+- [Federated learning paper by journal](journal.md)
 
 ## Paper (By research area)
 
@@ -41,12 +43,9 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 
 * **Communication-Efficient Learning of Deep Networks from Decentralized Data** [[Paper]](https://arxiv.org/abs/1602.05629) [[Github]](https://github.com/roxanneluo/Federated-Learning) [Google] **[Must Read]**
 
-## Paper (By conference and journal)
-
-- [Federated learning paper by conferences](conferences.md): NeurIPS, ICML, ICLR, CVPR, ICCV, AAAI, IJCAI, ACMMM, etc.
-- [Federated learning paper by journal](journal.md)
-
 ---
+
+## General Resources
 
 ### Blogs
 
