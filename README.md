@@ -12,7 +12,7 @@ Federated learning (FL) is attracting considerable attention these years. We org
 
 We organize the papers by [research areas](#paper-by-research-area) for challenges in FL and by [conferences and journals](#paper-by-conference-and-journal). 
 
-💡💡💡 We are thrilled to announce that we have open-sourced our federated learning platform, [EasyFL](https://github.com/EasyFL-AI/EasyFL), to enable users with various levels of expertise to experiment and prototype FL applications with little/no coding. It is based on our years of research and we have used it to publish numerous papers in top-tier conferences and journals. You can also use it to get started with federated learning and implement your projects.
+💡 We are thrilled to open-source our federated learning platform, [EasyFL](https://github.com/EasyFL-AI/EasyFL), to enable users with various levels of expertise to experiment and prototype FL applications with little/no coding. It is based on our years of research and we have used it to publish numerous papers in top-tier conferences and journals. You can also use it to get started with federated learning and implement your projects.
 
 ## General Resources
 
@@ -43,7 +43,7 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 
 ## Paper (By conference and journal)
 
-- [Federated learning paper by conferences](conferences.md): NIPS, ICML, ICLR, etc.
+- [Federated learning paper by conferences](conferences.md): NeurIPS, ICML, ICLR, CVPR, ICCV, AAAI, IJCAI, ACMMM, etc.
 - [Federated learning paper by journal](journal.md)
 
 ---
