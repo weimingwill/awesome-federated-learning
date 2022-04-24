@@ -5,9 +5,14 @@
 [![GitHub license](https://img.shields.io/github/license/weimingwill/awesome-federeated-learning.svg?color=blue)](https://github.com/weimingwill/awesome-federeated-learning/blob/master/LICENSE)
 
 # Awesome Federated Learning
-A curated list of research in federated learning. Link to the code if available is also present. You are very welcome to pull request by using our template.
 
-Federated learning research is booming. We organize the papers by their targeting problem and by conference. 
+A curated list of materials for federated learning, including blogs, surveys, research papers, and projects. You are very welcome to star it and create a pull request to update it.
+
+Federated learning (FL) is attracting considerable attention these years. We organize these materials for you to learn federated learning and further facilitate your research and projects. 
+
+We organize the papers by [research areas](#paper-by-research-area) for challenges in FL and by [conferences and journals](#paper-by-conference-and-journal). 
+
+💡💡💡 We are thrilled to announce that we have open-sourced our federated learning platform, [EasyFL](https://github.com/EasyFL-AI/EasyFL), to enable users with various levels of expertise to experiment and prototype FL applications with little/no coding. It is based on our years of research and we have used it to publish numerous papers in top-tier conferences and journals. You can also use it to get started with federated learning and implement your projects.
 
 ## General Resources
 
