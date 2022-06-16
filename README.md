@@ -92,6 +92,8 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 * Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
 * [Flower.dev](https://flower.dev/)
 * [OpenFL](https://github.com/intel/openfl)
+* [FEDn](https://scaleoutsystems.github.io/fedn/) [[Github]](https://github.com/scaleoutsystems/fedn)
+  * A modular and model agnostic framework for hierarchical federated machine learning [[Paper]](https://arxiv.org/abs/2103.00148)
 
 
 ### Company
