@@ -160,6 +160,45 @@
 
 ## CVPR 
 
+### CVPR 2022
+
+* Closing the Generalization Gap of Cross-Silo Federated Medical Image Segmentation [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.pdf)
+* ATPFL: Automatic Trajectory Prediction Model Design Under Federated Learning Framework [[Paper]]()
+
+* Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning [[Paper]]()
+
+* FedCorr: Multi-Stage Federated Learning for Label Noise Correction [[Paper]]()
+
+* Layer-Wised Model Aggregation for Personalized Federated Learning [[Paper]]()
+
+
+* Local Learning Matters: Rethinking Data Heterogeneity in Federated Learning [[Paper]]()
+
+* Federated Learning With Position-Aware Neurons [[Paper]]()
+
+
+* Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage [[Paper]]()
+
+* FedDC: Federated Learning With Non-IID Data via Local Drift Decoupling and Correction [[Paper]]()
+
+* RSCFed: Random Sampling Consensus Federated Semi-Supervised Learning [[Paper]]()
+
+* Learn From Others and Be Yourself in Heterogeneous Federated Learning [[Paper]]()
+
+* Federated Class-Incremental Learning [[Paper]]()
+
+* Differentially Private Federated Learning With Local Regularization and Sparsification [[Paper]]()
+
+* Robust Federated Learning With Noisy and Heterogeneous Clients [[Paper]]()
+
+* ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning [[Paper]]()
+
+* FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning [[Paper]]()
+
+* Fine-Tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning [[Paper]]()
+
+* CD2-pFed: Cyclic Distillation-Guided Channel Decoupling for Model Personalization in Federated Learning [[Paper]]()
+
 ### CVPR 2021
 
 * Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Multi-Institutional_Collaborations_for_Improving_Deep_Learning-Based_Magnetic_Resonance_Image_Reconstruction_CVPR_2021_paper.html)
