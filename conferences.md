@@ -131,10 +131,72 @@
 * HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients [[Paper]](https://openreview.net/forum?id=TNkPBBYFkXg)
 * Personalized Federated Learning with First Order Model Optimization [[Paper]](https://openreview.net/forum?id=ehJqJQk9cw)
 
-
 ## ICML
 
-### ICML20
+### ICML 2022
+* Fast Composite Optimization and Statistical Recovery in Federated Learning [[Paper]](https://proceedings.mlr.press/v162/bao22b.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/bao22b-supp.zip)
+* Personalization Improves Privacy-Accuracy Tradeoffs in Federated Learning [[Paper]](https://proceedings.mlr.press/v162/bietti22a.html)
+* The Fundamental Price of Secure Aggregation in Differentially Private Federated Learning [[Paper]](https://proceedings.mlr.press/v162/chen22c.html)
+* The Poisson Binomial Mechanism for Unbiased Federated Learning with Secure Aggregation [[Paper]](https://proceedings.mlr.press/v162/chen22s.html)
+* DisPFL: Towards Communication-Efficient Personalized Federated Learning via Decentralized Sparse Training [[Paper]](https://proceedings.mlr.press/v162/dai22b.html)
+* FedNew: A Communication-Efficient and Privacy-Preserving Newton-Type Method for Federated Learning [[Paper]](https://proceedings.mlr.press/v162/elgabli22a.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/elgabli22a-supp.zip)
+* DAdaQuant: Doubly-adaptive quantization for communication-efficient Federated Learning [[Paper]](https://proceedings.mlr.press/v162/honig22a.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/honig22a-supp.zip)
+* Accelerated Federated Learning with Decoupled Adaptive Optimization [[Paper]](https://proceedings.mlr.press/v162/jin22e.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/jin22e-supp.zip)
+* Federated Reinforcement Learning: Linear Speedup Under Markovian Sampling [[Paper]](https://proceedings.mlr.press/v162/khodadadian22a.html)
+* Multi-Level Branched Regularization for Federated Learning [[Paper]](https://proceedings.mlr.press/v162/kim22a.html)
+* FedScale: Benchmarking Model and System Performance of Federated Learning at Scale162:11814-11827 [[Paper]](https://proceedings.mlr.press/v162/lai22a.html)
+* Federated Learning with Positive and Unlabeled Data [[Paper]](https://proceedings.mlr.press/v162/lin22b.html)
+* Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning [[Paper]](https://proceedings.mlr.press/v162/liu22k.html)
+* Orchestra: Unsupervised Federated Learning via Globally Consistent Clustering [[Paper]](https://proceedings.mlr.press/v162/lubana22a.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/lubana22a-supp.zip)
+* Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring [[Paper]](https://proceedings.mlr.press/v162/luo22b.html)
+* Architecture Agnostic Federated Learning for Neural Networks [[Paper]](https://proceedings.mlr.press/v162/makhija22a.html)
+* Personalized Federated Learning through Local Memorization [[Paper]](https://proceedings.mlr.press/v162/marfoq22a.html)
+* Proximal and Federated Random Reshuffling [[Paper]](https://proceedings.mlr.press/v162/mishchenko22a.html)
+* Federated Learning with Partial Model Personalization [[Paper]](https://proceedings.mlr.press/v162/pillutla22a.html)
+* Generalized Federated Learning via Sharpness Aware Minimization [[Paper]](https://proceedings.mlr.press/v162/qu22a.html)
+* FedNL: Making Newton-Type Methods Applicable to Federated Learning [[Paper]](https://proceedings.mlr.press/v162/safaryan22a.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/safaryan22a-supp.zip)
+* Federated Minimax Optimization: Improved Convergence Analyses and Algorithms [[Paper]](https://proceedings.mlr.press/v162/sharma22c.html)
+* Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning [[Paper]](https://proceedings.mlr.press/v162/tang22d.html)
+* FedNest: Federated Bilevel, Minimax, and Compositional Optimization [[Paper]](https://proceedings.mlr.press/v162/tarzanagh22a.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/tarzanagh22a-supp.zip)
+* EDEN: Communication-Efficient and Robust Distributed Mean Estimation for Federated Learning [[Paper]](https://proceedings.mlr.press/v162/vargaftik22a.html)
+* Communication-Efficient Adaptive Federated Learning [[Paper]](https://proceedings.mlr.press/v162/wang22o.html)
+* ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training [[Paper]](https://proceedings.mlr.press/v162/wang22y.html)
+* Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification [[Paper]](https://proceedings.mlr.press/v162/wen22a.html)
+* Anarchic Federated Learning [[Paper]](https://proceedings.mlr.press/v162/yang22r.html)
+* QSFL: A Two-Level Uplink Communication Optimization Framework for Federated Learning [[Paper]](https://proceedings.mlr.press/v162/yi22a.html)
+* Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization [[Paper]](https://proceedings.mlr.press/v162/yoon22a.html)
+* Neural Tangent Kernel Empowered Federated Learning [[Paper]](https://proceedings.mlr.press/v162/yue22a.html)
+* Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy [[Paper]](https://proceedings.mlr.press/v162/zhang22b.html)
+* Personalized Federated Learning via Variational Bayesian Inference [[Paper]](https://proceedings.mlr.press/v162/zhang22o.html)
+* Federated Learning with Label Distribution Skew via Logits Calibration [[Paper]](https://proceedings.mlr.press/v162/zhang22p.html)
+* Neurotoxin: Durable Backdoors in Federated Learning [[Paper]](https://proceedings.mlr.press/v162/zhang22w.html)
+* Resilient and Communication Efficient Learning for Heterogeneous Federated Systems [[Paper]](https://proceedings.mlr.press/v162/zhu22e.html)
+
+
+
+### ICML 2021
+* Debiasing Model Updates for Improving Personalized Federated Training [[Paper]](https://proceedings.mlr.press/v139/acar21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/acar21a/acar21a-supp.pdf)
+* Federated Learning under Arbitrary Communication Patterns [[Paper]](https://proceedings.mlr.press/v139/avdiukhin21a.html)[[Supplementary]](http://proceedings.mlr.press/v139/avdiukhin21a/avdiukhin21a-supp.zip)]
+* One for One, or All for All: Equilibria and Optimality of Collaboration in Federated Learning [[Paper]](https://proceedings.mlr.press/v139/blum21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/blum21a/blum21a-supp.pdf)
+* Exploiting Shared Representations for Personalized Federated Learning [[Paper]](https://proceedings.mlr.press/v139/collins21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/collins21a/collins21a-supp.pdf)
+* Heterogeneity for the Win: One-Shot Federated Clustering [[Paper]](https://proceedings.mlr.press/v139/dennis21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/dennis21a/dennis21a-supp.pdf)
+* Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning [[Paper]](https://proceedings.mlr.press/v139/fraboni21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/fraboni21a/fraboni21a-supp.pdf)
+* Federated Learning of User Verification Models Without Sharing Embeddings [[Paper]](https://proceedings.mlr.press/v139/hosseini21a.html)
+* FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Analysis [[Paper]](https://proceedings.mlr.press/v139/huang21c.html) [[Supplementary]](http://proceedings.mlr.press/v139/huang21c/huang21c-supp.pdf)
+* The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation [[Paper]](https://proceedings.mlr.press/v139/kairouz21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/kairouz21a/kairouz21a-supp.pdf)
+* Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix [[Paper]](https://proceedings.mlr.press/v139/lam21b.html) [[Supplementary]](http://proceedings.mlr.press/v139/lam21b/lam21b-supp.pdf)
+* Ditto: Fair and Robust Federated Learning Through Personalization [[Paper]](https://proceedings.mlr.press/v139/li21h.html) [[Supplementary]](http://proceedings.mlr.press/v139/li21h/li21h-supp.pdf)
+* Bias-Variance Reduced Local SGD for Less Heterogeneous Federated Learning [[Paper]](https://proceedings.mlr.press/v139/murata21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/murata21a/murata21a-supp.pdf)
+* Personalized Federated Learning using Hypernetworks [[Paper]](https://proceedings.mlr.press/v139/shamsian21a.html)
+* CRFL: Certifiably Robust Federated Learning against Backdoor Attacks [[Paper]](https://proceedings.mlr.press/v139/xie21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/xie21a/xie21a-supp.pdf)
+* Federated Continual Learning with Weighted Inter-client Transfer [[Paper]](https://proceedings.mlr.press/v139/yoon21b.html)
+* Federated Deep AUC Maximization for Hetergeneous Data with a Constant Communication Complexity [[Paper]](https://proceedings.mlr.press/v139/yuan21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/yuan21a/yuan21a-supp.pdf)
+* Federated Composite Optimization [[Paper]](https://proceedings.mlr.press/v139/yuan21d.html) [[Supplementary]](http://proceedings.mlr.press/v139/yuan21d/yuan21d-supp.pdf)
+* Data-Free Knowledge Distillation for Heterogeneous Federated Learning [[Paper]](https://proceedings.mlr.press/v139/zhu21b.html) [[Supplementary]](http://proceedings.mlr.press/v139/zhu21b/zhu21b-supp.pdf)
+
+
+
+### ICML 2020
 
 * FedBoost: Communication-Efficient Algorithms for Federated Learning [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf) [ICML20]
 * FetchSGD: Communication-Efficient Federated Learning with Sketching [[Paper]](https://arxiv.org/abs/2007.07682) [ICML20]
