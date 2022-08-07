@@ -1,7 +1,7 @@
 # Federated Learning Paper in Conferences
 
 ## Table of Contents
-* [NIPS](#nips)
+* [NeurIPS](#nips)
 * [ICLR](#iclr)
 * [ICML](#icml)
 * [CVPR](#cvpr)
@@ -12,9 +12,24 @@
 * [AAAI](#aaai)
 * [IJCAI](#ijcai)
 
-## NIPS
+Statistics of the number of papers in top conferences.
 
-### NeurIPS 2021
+| Conference | Year | Numer of Papers |
+| - | - | - | 
+| NeurIPS | 2021 | 32 |
+| NeurIPS | 2020 | 24 |
+| ICLR | 2022 | 20 |
+| ICLR | 2021 | 10 |
+| ICML | 2022 | 37 |
+| ICML | 2021 | 18 |
+| ICML | 2021 | 5 |
+| CVPR | 2022 | 19 |
+| CVPR | 2021 | 5 |
+| ICCV | 2021 | 3 |
+
+## NeurIPS
+
+### NeurIPS 2021 (32 Papers)
 
 * Sageflow: Robust Federated Learning against Both Stragglers and Adversaries [[Paper]](https://papers.nips.cc/paper/2021/hash/076a8133735eb5d7552dc195b125a454-Abstract.html)
 * Catastrophic Data Leakage in Vertical Federated Learning [[Paper]](https://papers.nips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html)
@@ -50,7 +65,7 @@
 * FedDR – Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization [[Paper]](https://papers.nips.cc/paper/2021/hash/fe7ee8fc1959cc7214fa21c4840dff0a-Abstract.html)
 
 
-### NeurIPS 2020
+### NeurIPS 2020 (24 Papers)
 
 * Personalized Federated Learning with Moreau Envelopes [[Paper]](https://arxiv.org/abs/2006.08848)
 * Lower Bounds and Optimal Algorithms for Personalized Federated Learning [[Paper]](https://papers.nips.cc/paper/2020/file/187acf7982f3c169b3075132380986e4-Paper.pdf) [KAUST]
@@ -89,7 +104,7 @@
 
 ## ICLR
 
-### ICLR 2022
+### ICLR 2022 (20 Papers)
 
 #### Spotlight
 
@@ -118,7 +133,7 @@
 * Bayesian Framework for Gradient Leakage [[Paper]](https://openreview.net/forum?id=f2lrIbGx3x7)
 
 
-### ICLR 2021
+### ICLR 2021 (10 Papers)
 
 * Federated Learning Based on Dynamic Regularization [[Paper]](https://openreview.net/forum?id=B7v4QMR6Z9w)
 * Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms [[Paper]](https://openreview.net/forum?id=GFsU8a0sGB)
@@ -133,7 +148,8 @@
 
 ## ICML
 
-### ICML 2022
+### ICML 2022 (37 Papers)
+
 * Fast Composite Optimization and Statistical Recovery in Federated Learning [[Paper]](https://proceedings.mlr.press/v162/bao22b.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/bao22b-supp.zip)
 * Personalization Improves Privacy-Accuracy Tradeoffs in Federated Learning [[Paper]](https://proceedings.mlr.press/v162/bietti22a.html)
 * The Fundamental Price of Secure Aggregation in Differentially Private Federated Learning [[Paper]](https://proceedings.mlr.press/v162/chen22c.html)
@@ -174,7 +190,8 @@
 
 
 
-### ICML 2021
+### ICML 2021 (18 Papers)
+
 * Debiasing Model Updates for Improving Personalized Federated Training [[Paper]](https://proceedings.mlr.press/v139/acar21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/acar21a/acar21a-supp.pdf)
 * Federated Learning under Arbitrary Communication Patterns [[Paper]](https://proceedings.mlr.press/v139/avdiukhin21a.html)[[Supplementary]](http://proceedings.mlr.press/v139/avdiukhin21a/avdiukhin21a-supp.zip)]
 * One for One, or All for All: Equilibria and Optimality of Collaboration in Federated Learning [[Paper]](https://proceedings.mlr.press/v139/blum21a.html) [[Supplementary]](http://proceedings.mlr.press/v139/blum21a/blum21a-supp.pdf)
@@ -195,8 +212,7 @@
 * Data-Free Knowledge Distillation for Heterogeneous Federated Learning [[Paper]](https://proceedings.mlr.press/v139/zhu21b.html) [[Supplementary]](http://proceedings.mlr.press/v139/zhu21b/zhu21b-supp.pdf)
 
 
-
-### ICML 2020
+### ICML 2020 (5 Papers)
 
 * FedBoost: Communication-Efficient Algorithms for Federated Learning [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf) [ICML20]
 * FetchSGD: Communication-Efficient Federated Learning with Sketching [[Paper]](https://arxiv.org/abs/2007.07682) [ICML20]
@@ -204,25 +220,9 @@
 * SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning [[Paper]](https://arxiv.org/abs/1910.06378)
 * From Local SGD to Local Fixed-Point Methods for Federated Learning [[Paper]](https://arxiv.org/pdf/2004.01442.pdf)
 
-## KDD
-
-### KDD 2020
-
-* **FedFast:** Going Beyond Average for Faster Training of Federated Recommender Systems [KDD20]
-* Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data [KDD20]
-* FedCD: Improving Performance in non-IID Federated Learning [KDD20 Workshop]
-* Resource-Constrained Federated Learning with Heterogeneous Labels and Models [KDD2020 Workshop]
-
-### KDD 2021
-* FLOP: Federated Learning on Medical Datasets using Partial Networks [[Paper]](https://arxiv.org/pdf/2102.05218.pdf)
-* **Federated Adversarial Debiasing** for Fair and Transferable Representations
-* Fed^2: Feature-Aligned Federated Learning
-* Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling [[Paper]](https://arxiv.org/pdf/2106.05223.pdf)
-* FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data [[Paper]](http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf)
-
 ## CVPR 
 
-### CVPR 2022
+### CVPR 2022 (18 Papers)
 
 * Closing the Generalization Gap of Cross-Silo Federated Medical Image Segmentation [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.pdf)
 * ATPFL: Automatic Trajectory Prediction Model Design Under Federated Learning Framework [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.pdf)
@@ -243,7 +243,7 @@
 * Fine-Tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Fine-Tuning_Global_Model_via_Data-Free_Knowledge_Distillation_for_Non-IID_Federated_CVPR_2022_paper.pdf)
 * CD2-pFed: Cyclic Distillation-Guided Channel Decoupling for Model Personalization in Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shen_CD2-pFed_Cyclic_Distillation-Guided_Channel_Decoupling_for_Model_Personalization_in_Federated_CVPR_2022_paper.pdf)
 
-### CVPR 2021
+### CVPR 2021 (5 Papers)
 
 * Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Multi-Institutional_Collaborations_for_Improving_Deep_Learning-Based_Magnetic_Resonance_Image_Reconstruction_CVPR_2021_paper.html)
 * Model-Contrastive Federated Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.html)
@@ -253,11 +253,27 @@
 
 ## ICCV
 
-### ICCV 2021
+### ICCV 2021 (3 Papers)
 
 * Collaborative Unsupervised Visual Representation Learning From Decentralized Data [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.html)
 * Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.html)
 * Ensemble Attention Distillation for Privacy-Preserving Federated Learning [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.html)
+
+## KDD
+
+### KDD 2020
+
+* **FedFast:** Going Beyond Average for Faster Training of Federated Recommender Systems [KDD20]
+* Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data [KDD20]
+* FedCD: Improving Performance in non-IID Federated Learning [KDD20 Workshop]
+* Resource-Constrained Federated Learning with Heterogeneous Labels and Models [KDD2020 Workshop]
+
+### KDD 2021
+* FLOP: Federated Learning on Medical Datasets using Partial Networks [[Paper]](https://arxiv.org/pdf/2102.05218.pdf)
+* **Federated Adversarial Debiasing** for Fair and Transferable Representations
+* Fed^2: Feature-Aligned Federated Learning
+* Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling [[Paper]](https://arxiv.org/pdf/2106.05223.pdf)
+* FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data [[Paper]](http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf)
 
 ## ACMMM
 
