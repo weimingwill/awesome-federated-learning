@@ -18,7 +18,7 @@ Statistics of the number of papers in top conferences.
 | - | - | - | 
 | NeurIPS | 2021 | 32 |
 | NeurIPS | 2020 | 24 |
-| ICLR | 2022 | 21 |
+| ICLR | 2022 | 20 |
 | ICLR | 2021 | 10 |
 | ICML | 2022 | 37 |
 | ICML | 2021 | 18 |
@@ -131,7 +131,6 @@ Statistics of the number of papers in top conferences.
 * Reducing the Communication Cost of Federated Learning through Multistage Optimization [[Paper]](https://openreview.net/forum?id=ZaVVVlcdaN)
 * Unsupervised Federated Learning is Possible [[Paper]](https://openreview.net/forum?id=WHA8009laxu)
 * Bayesian Framework for Gradient Leakage [[Paper]](https://openreview.net/forum?id=f2lrIbGx3x7)
-* Efficient Split-Mix Federated Learning for On-Demand and In-Situ Customization [[Paper]](https://openreview.net/pdf?id=_QLmakITKg)
 
 ### ICLR 2021 (10 Papers)
 
