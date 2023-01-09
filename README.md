@@ -30,7 +30,7 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 ## Paper (By conference and journal)
 
 - [Federated learning paper by conferences](conferences.md): NeurIPS, ICML, ICLR, CVPR, ICCV, AAAI, IJCAI, ACMMM, etc.
-- [Federated learning paper by journal](journal.md)
+- [Federated learning paper by journal](journals.md)
 
 ## Paper (By research area)
 
