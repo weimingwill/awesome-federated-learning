@@ -65,6 +65,7 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 * Federated Learning in Mobile Edge Networks: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/1909.11875)
 * Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges [[Paper]](https://arxiv.org/abs/1908.06847)
 * A Review of Applications in Federated Learning [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360835220305532)
+* Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies [[Paper]](https://ieeexplore.ieee.org/document/9780218)
 
 
 ### Benchmarks

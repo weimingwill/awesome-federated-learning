@@ -9,6 +9,7 @@
 * [ACMMM](#acmmm)
 * [KDD](#kdd)
 * [OSDI](#osdi)
+* [SoCC](#socc)
 * [AAAI](#aaai)
 * [IJCAI](#ijcai)
 
@@ -26,6 +27,8 @@ Statistics of the number of papers in top conferences.
 | CVPR | 2022 | 19 |
 | CVPR | 2021 | 5 |
 | ICCV | 2021 | 3 |
+| OSDI | 2021 | 1 |
+| SoCC | 2022 | 1 |
 
 ## NeurIPS
 
@@ -291,6 +294,12 @@ Statistics of the number of papers in top conferences.
 ### OSDI 2021
 
 * Oort: Efficient Federated Learning via Guided Participant Selection [[Paper]](https://www.usenix.org/conference/osdi21/presentation/lai)
+
+## SoCC
+
+### SoCC 2022
+
+* Pisces: Efficient Federated Learning via Guided Asynchronous Training [[Paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563463)
 
 ## AAAI
 

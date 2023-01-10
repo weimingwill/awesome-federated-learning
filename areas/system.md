@@ -7,6 +7,7 @@
 
 * *Towards Federated Learning at Scale: System Design* [[Paper]](https://arxiv.org/abs/1902.01046) **[Must Read]**
 * Oort: Informed Participant Selection for Scalable Federated Learning [[Paper]](https://arxiv.org/abs/2010.06081) [OSDI 2021][Nice paper]
+* Pisces: Efficient Federated Learning via Guided Asynchronous Training [[Paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563463) [SoCC 2022][Beat Oort]
 * Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy [[Paper]](https://arxiv.org/abs/2007.00914) (Startup)
 * Flower: A Friendly Federated Learning Framework [[Paper]](https://arxiv.org/abs/2007.14390)
 * Demonstration of Federated Learning in a Resource-Constrained Networked Environment [[Paper]](https://ieeexplore.ieee.org/document/8784064)
