@@ -19,6 +19,7 @@ Statistics of the number of papers in top conferences.
 | - | - | - | 
 | NeurIPS | 2021 | 32 |
 | NeurIPS | 2020 | 24 |
+| ICLR | 2022 | 46 |
 | ICLR | 2022 | 20 |
 | ICLR | 2021 | 10 |
 | ICML | 2022 | 37 |
@@ -106,6 +107,55 @@ Statistics of the number of papers in top conferences.
 * NIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality 3 [[Video]](https://slideslive.com/38921900/workshop-on-federated-learning-for-data-privacy-and-confidentiality-3)
 
 ## ICLR
+
+### ICLR 2023 (46 papers)
+
+* Personalized Federated Learning with Feature Alignment and Classifier Collaboration [[Paper]](https://openreview.net/forum?id=SXZr8aDKia)
+* MocoSFL: enabling cross-client collaborative self-supervised learning [[Paper]](https://openreview.net/forum?id=2QGJXyMNoPz)
+* Single-shot General Hyper-parameter Optimization for Federated Learning [[Paper]](https://openreview.net/forum?id=3RhuF8foyPW)
+* Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated [[Paper]](https://openreview.net/forum?id=Mpa3tRJFBb)
+* FedExP: Speeding up Federated Averaging via Extrapolation [[Paper]](https://openreview.net/forum?id=IPrzNbddXV)
+* Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection [[Paper]](https://openreview.net/forum?id=mMNimwRb7Gr)
+* DASHA: Distributed Nonconvex Optimization with Communication Compression and Optimal Oracle Complexity [[Paper]](https://openreview.net/forum?id=VA1YpcNr7ul)
+* Federated Learning as Variational Inference: A Scalable Expectation Propagation Approach [[Paper]](https://openreview.net/forum?id=dZrQR7OR11)
+* Federated Learning from Small Datasets [[Paper]](https://openreview.net/forum?id=hDDV1lsRV8)
+* Machine Unlearning of Federated Clusters [[Paper]](https://openreview.net/forum?id=VzwfoFyYDga)
+* Federated Neural Bandits [[Paper]](https://openreview.net/forum?id=38m4h8HcNRL)
+* FedFA: Federated Feature Augmentation [[Paper]](https://openreview.net/forum?id=U9yFP90jU0)
+* Better Generative Replay for Continual Federated Learning [[Paper]](https://openreview.net/forum?id=cRxYWKiTan)
+* Federated Nearest Neighbor Machine Translation [[Paper]](https://openreview.net/forum?id=R1U5G2spbLd)
+* Test-Time Robust Personalization for Federated Learning [[Paper]](https://openreview.net/forum?id=3aBuJEza5sq)
+* DepthFL : Depthwise Federated Learning for Heterogeneous Clients [[Paper]](https://openreview.net/forum?id=pf8RIZTMU58)
+* Towards Addressing Label Skews in One-Shot Federated Learning [[Paper]](https://openreview.net/forum?id=rzrqh85f4Sc)
+* Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous Federated Learning [[Paper]](https://openreview.net/forum?id=EXnIyMVTL8s)
+* Panning for Gold in Federated Learning: Targeted Text Extraction under Arbitrarily Large-Scale Aggregation [[Paper]](https://openreview.net/forum?id=A9WQaxYsfx)
+* SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication [[Paper]](https://openreview.net/forum?id=jh1nCir1R3d)
+* Private Federated Learning Without a Trusted Server: Optimal Algorithms for Convex Losses [[Paper]](https://openreview.net/forum?id=TVY6GoURrw)
+* Effective passive membership inference attacks in federated learning against overparameterized models [[Paper]](https://openreview.net/forum?id=QsCSLPP55Ku)
+* FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification [[Paper]](https://openreview.net/forum?id=9aokcgBVIj1)
+* Multimodal Federated Learning via Contrastive Representation Ensemble [[Paper]](https://openreview.net/forum?id=Hnk1WRMAYqg)
+* Faster federated optimization under second-order similarity [[Paper]](https://openreview.net/forum?id=ElC6LYO4MfD)
+* FedSpeed: Larger Local Interval, Less Communication Round, and Higher Generalization Accuracy [[Paper]](https://openreview.net/forum?id=bZjxxYURKT)
+* The Best of Both Worlds: Accurate Global and Personalized Models through Federated Learning with Data-Free Hyper-Knowledge Distillation [[Paper]](https://openreview.net/forum?id=29V3AWjVAFi)
+* PerFedMask: Personalized Federated Learning with Optimized Masking Vectors [[Paper]](https://openreview.net/forum?id=hxEIgUXLFF)
+* EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data [[Paper]](https://openreview.net/forum?id=ytZIYmztET)
+* FedDAR: Federated Domain-Aware Representation Learning [[Paper]](https://openreview.net/forum?id=6P9Y25Pljl6)
+* Share Your Representation Only: Guaranteed Improvement of the Privacy-Utility Tradeoff in Federated Learning [[Paper]](https://openreview.net/forum?id=oJpVVGXu9i)
+* FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [[Paper]](https://openreview.net/forum?id=Xo2E217_M4n)
+* Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses [[Paper]](https://openreview.net/forum?id=-EHqoysUYLx)
+* Combating Exacerbated Heterogeneity for Robust Models in Federated Learning [[Paper]](https://openreview.net/forum?id=eKllxpLOOm)
+* Efficient Federated Domain Translation [[Paper]](https://openreview.net/forum?id=uhLAcrAZ9cJ)
+* On the Importance and Applicability of Pre-Training for Federated Learning [[Paper]](https://openreview.net/forum?id=fWWFv--P0xP)
+* Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models [[Paper]](https://openreview.net/forum?id=r0BrY4BiEXO)
+* A Statistical Framework for Personalized Federated Learning and Estimation: Theory, Algorithms, and Privacy [[Paper]](https://openreview.net/forum?id=FUiDMCr_W4o)
+* Instance-wise Batch Label Restoration via Gradients in Federated Learning [[Paper]](https://openreview.net/forum?id=FIrQfNSOoTr)
+* Data-Free One-Shot Federated Learning Under Very High Statistical Heterogeneity [[Paper]](https://openreview.net/forum?id=_hb4vM3jspB)
+* Meta Knowledge Condensation for Federated Learning [[Paper]](https://openreview.net/forum?id=TDf-XFAwc79)
+* CANIFE: Crafting Canaries for Empirical Privacy Measurement in Federated Learning [[Paper]](https://openreview.net/forum?id=Kf7Yyf4O0u)
+* Sparse Random Networks for Communication-Efficient Federated Learning [[Paper]](https://openreview.net/forum?id=k1FHgri5y3-)
+* Hyperparameter Optimization through Neural Network Partitioning [[Paper]](https://openreview.net/forum?id=nAgdXgfmqj)
+* Does Decentralized Learning with Non-IID Unlabeled Data Benefit from Self Supervision? [[Paper]](https://openreview.net/forum?id=2L9gzS80tA4)
+* Variance Reduction is an Antidote to Byzantines: Better Rates, Weaker Assumptions and Communication Compression as a Cherry on the Top [[Paper]](https://openreview.net/forum?id=pfuqQQCB34)
 
 ### ICLR 2022 (20 Papers)
 
