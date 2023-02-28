@@ -19,7 +19,7 @@ Statistics of the number of papers in top conferences.
 | - | - | - | 
 | NeurIPS | 2021 | 32 |
 | NeurIPS | 2020 | 24 |
-| ICLR | 2022 | 46 |
+| ICLR | 2023 | 46 |
 | ICLR | 2022 | 20 |
 | ICLR | 2021 | 10 |
 | ICML | 2022 | 37 |
