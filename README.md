@@ -99,6 +99,8 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 
 ### Company
 
+* FedML [[Website]](https://fedml.ai/)
+* DynamoFL [[Website]](https://www.dynamofl.com/)
 * Adap [[Website]](https://adap.com/): Fleet Intelligence
 * Privacy.ai [[Website]](https://privacy.ai/)
 * OpenMined [[Website]](https://www.openmined.org/)
