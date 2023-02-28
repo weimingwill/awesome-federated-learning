@@ -108,7 +108,7 @@ Statistics of the number of papers in top conferences.
 
 ## ICLR
 
-### ICLR 2023 (46 papers)
+### ICLR 2023 (46 Papers)
 
 * Personalized Federated Learning with Feature Alignment and Classifier Collaboration [[Paper]](https://openreview.net/forum?id=SXZr8aDKia)
 * MocoSFL: enabling cross-client collaborative self-supervised learning [[Paper]](https://openreview.net/forum?id=2QGJXyMNoPz)
