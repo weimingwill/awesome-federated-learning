@@ -16,4 +16,7 @@
 * Incentive Design for Efficient Federated Learning in Mobile Networks: A Contract Theory Approach [2019] [[Paper]](https://arxiv.org/abs/1905.07479)
 
 ## Blockchain
-* Blockchain-Based Federated Learning for Securing Internet of Things: A Comprehensive Survey [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560816)
+* Blockchain-Based Federated Learning for Securing Internet of Things: A Comprehensive Survey [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560816) [ACM2023]
+* Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation
+ [[Paper]](https://ieeexplore.ieee.org/abstract/document/9664296)
+
