@@ -66,6 +66,10 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 * Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges [[Paper]](https://arxiv.org/abs/1908.06847)
 * A Review of Applications in Federated Learning [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360835220305532)
 * Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies [[Paper]](https://ieeexplore.ieee.org/document/9780218)
+* Heterogeneous Federated Learning: State-of-the-art and Research Challenges [[Paper]](https://dl.acm.org/doi/10.1145/3625558)
+* Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705123004082)
+* Federated learning for smart cities: A comprehensive survey [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S2213138822010359)
+
 
 
 ### Benchmarks
