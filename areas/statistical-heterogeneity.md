@@ -47,6 +47,7 @@
 * Federated Meta-Learning with Fast Convergence and Efficient Communication [[Paper]](https://arxiv.org/abs/1802.07876)
 * Federated Meta-Learning for Recommendation [[Paper]](https://www.semanticscholar.org/paper/Federated-Meta-Learning-for-Recommendation-Chen-Dong/8e21d353ba283bee8fd18285558e5e8df39d46e8#paper-header)
 * Adaptive Gradient-Based Meta-Learning Methods [[Paper]](https://arxiv.org/abs/1906.02717)
+* Local Learning Matters: Rethinking Data Heterogeneity in Federated Learning [[Paper]](https://ieeexplore.ieee.org/document/9880310) [CVPR 2022]
 
 ## Multi-task Learning
 

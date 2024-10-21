@@ -25,3 +25,4 @@
 * Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach [[Paper]](https://arxiv.org/abs/2003.08725)
 * Federated Sensing: Edge-Cloud Elastic Collaborative Learning for Intelligent Sensing [[Paper]](https://ieeexplore.ieee.org/document/9328824)
 * PoisonGAN: Generative Poisoning Attacks Against Federated Learning in Edge Computing Systems [[Paper]](https://ieeexplore.ieee.org/document/9194010)
+* When Federated Learning Meets Oligopoly Competition: Stability and Model Differentiation [[Paper]](https://ieeexplore.ieee.org/document/10530187)
