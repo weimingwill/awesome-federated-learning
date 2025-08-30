@@ -1,5 +1,6 @@
 # Trustworthiness
 
+* **Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off** [[Paper](https://arxiv.org/abs/2402.07002)] [[Code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] [SYSU, TAMU, HITSZ, ZSTU] [ICML 2025]
 * SecureBoost: A Lossless Federated Learning Framework [[Paper]](https://arxiv.org/pdf/1901.0)
 * Fair Resource Allocation in Federated Learning [[Paper]](https://arxiv.org/abs/1905.10497)
 * **How To Backdoor Federated Learning** [[Paper]](https://arxiv.org/abs/1807.00459) [[Github]](https://github.com/ebagdasa/
@@ -20,6 +21,7 @@
 
 ## Data Privacy and Confidentiality
 
+* **Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off** [[Paper](https://arxiv.org/abs/2402.07002)] [[Code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] [SYSU, TAMU, HITSZ, ZSTU] [ICML 2025]
 * Election Coding for Distributed Learning: Protecting SignSGD against Byzantine Attacks [[Paper]](https://papers.nips.cc/paper/2020/file/a7f0d2b95c60161b3f3c82f764b1d1c9-Paper.pdf) [NIPS2020]
 * Distributed Newton Can Communicate Less and Resist Byzantine Workers [[Paper]](https://arxiv.org/pdf/2006.08737.pdf) [Berkeley] [NIPS2020]
 * Byzantine Resilient Distributed Multi-Task Learning [[Paper]](https://papers.nips.cc/paper/2020/file/d37eb50d868361ea729bb4147eb3c1d8-Paper.pdf) [NIPS2020]
@@ -50,6 +52,7 @@
 
 ### Differential Privacy
 
+* **Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off** [[Paper](https://arxiv.org/abs/2402.07002)] [[Code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] [SYSU, TAMU, HITSZ, ZSTU] [ICML 2025]
 * A Brief Introduction to Differential Privacy [[Blog]](https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b)
 * *Deep Learning with Differential Privacy* [[Paper]](http://doi.acm.org/10.1145/2976749.2978318)
   * Martin Abadi, Andy Chu, Ian Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, and Li Zhang.
@@ -128,6 +131,7 @@ Helen: Maliciously Secure Coopetitive Learning for Linear Models [[Paper]](https
 
 ### Privacy Preserving Machine Learning
 
+* **Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off** [[Paper](https://arxiv.org/abs/2402.07002)] [[Code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] [SYSU, TAMU, HITSZ, ZSTU] [ICML 2025]
 * Privacy-Preserving Deep Learning [[Paper]](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf)
 * Privacy Partition: A Privacy-Preserving Framework for Deep Neural Networks in Edge Networks [[Paper]](http://mews.sv.cmu.edu/papers/archedge-18.pdf)
 * *Practical Secure Aggregation for Privacy-Preserving Machine Learning* [[Paper]](https://eprint.iacr.org/2017/281.pdf) (Google)
