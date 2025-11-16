@@ -22,6 +22,7 @@ Statistics of the number of papers in top conferences.
 | ICLR | 2023 | 46 |
 | ICLR | 2022 | 20 |
 | ICLR | 2021 | 10 |
+| ICML | 2025 | 65 |
 | ICML | 2022 | 37 |
 | ICML | 2021 | 18 |
 | ICML | 2021 | 5 |
@@ -200,6 +201,9 @@ Statistics of the number of papers in top conferences.
 
 ## ICML
 
+### ICML 2025 (65 Papers)
+* Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off [[Paper](https://arxiv.org/abs/2402.07002)] [[Code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)]
+  
 ### ICML 2022 (37 Papers)
 
 * Fast Composite Optimization and Statistical Recovery in Federated Learning [[Paper]](https://proceedings.mlr.press/v162/bao22b.html) [[Supplementary]](https://media.icml.cc/Conferences/ICML2022/supplementary/bao22b-supp.zip)
