@@ -115,3 +115,4 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 * S20 [[Website]](https://www.s20.ai/): Multiple third party collaboration
 * DataFleets [[Website]](https://www.datafleets.com/)
 * Decentralized Machine Learning [[Website]](https://decentralizedml.com/)
+- [crdt-merge](https://github.com/mgillr/crdt-merge) — CRDT-based merge engine for reconciling model weights, LoRA adapters, and dataframes across federated nodes without a central server.
