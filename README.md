@@ -115,3 +115,4 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 * S20 [[Website]](https://www.s20.ai/): Multiple third party collaboration
 * DataFleets [[Website]](https://www.datafleets.com/)
 * Decentralized Machine Learning [[Website]](https://decentralizedml.com/)
+* TWZRD Agent Intel [[Website]](https://intel.twzrd.xyz): Privacy-preserving trust scoring for AI agents — verify agent identity without exposing sensitive data. On-chain agent trust verification for privacy-preserving federated AI deployments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
