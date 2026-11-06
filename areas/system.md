@@ -22,6 +22,8 @@
 * Baidu PaddleFL [[Github]](https://github.com/PaddlePaddle/PaddleFL)
 * Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
 * Flower [[Web]](https://flower.dev/)
+* FRACTAL [[Github]](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace)
+  * A decentralized framework for federated learning and training models on Android and edge devices
 
 ## Applications On Edge
 
