@@ -100,7 +100,7 @@ We organize the papers by [research areas](#paper-by-research-area) for challeng
 * [FEDn](https://scaleoutsystems.github.io/fedn/) [[Github]](https://github.com/scaleoutsystems/fedn)
   * A modular and model agnostic framework for hierarchical federated machine learning [[Paper]](https://arxiv.org/abs/2103.00148)
 * FRACTAL [[Github]](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace) [[Docs]](https://github.com/Fractal-Compute-Orchestrations/FractalCore/tree/main/docs)
-  * A decentralized edge compute and federated graph execution framework featuring INT4 model partitioning and native Android runtime
+  * A decentralized framework for federated learning and training models on Android and edge devices
 
 
 ### Company
